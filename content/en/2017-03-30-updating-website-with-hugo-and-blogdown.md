@@ -73,6 +73,7 @@ git push -u origin master
 Here are some issues I still have:
 
 - I used to have my Chinese and English blogs separated; and I have two short names for Disqus comments for them. Now I have merged these two blogs into one folder, but I cannot merge their comments too. I can only choose one shortname. Any solutions?
+- In this setup (submodule for `public` folder), whenever I rebuild the site, almost all webpages in the `public` folder changed and need to commit and push to github?? Why?
 - to be updated.
 
 ## Useful links
