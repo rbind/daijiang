@@ -1,0 +1,100 @@
+baseurl: "/"
+relativeurls: true
+languageCode: "en-us"
+title: "Daijiang Li"
+theme: "hugo-lithium-theme"
+googleAnalytics: "UA-28785465-3"
+disqusShortname: "daijiang-en"
+ignoreFiles: ["\\.Rmd$", "_files$", "_cache$"]
+hasCJKLanguage: true
+enableEmoji: true
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  cn: "/cn/:year/:month/:day/:slug/"
+  en: "/en/:year/:month/:day/:slug/"
+
+menu:
+  main:
+    - name: "About"
+      url: "/about/"
+      weight: 1
+    - name: "Resume"
+      url: "/resume/"
+      weight: 2
+    - name: "Research"
+      url: "/research/"
+      weight: 3
+    - name: "Links"
+      url: "/links/"
+      weight: 4
+    - name: "Blog"
+      url: "/en/"
+      weight: 5
+    - name: "博客"
+      url: "/cn/"
+      weight: 6
+  en:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/about/"
+      weight: 2
+    - name: "Blog"
+      url: "/en/"
+      weight: 3
+    - name: "中文"
+      url: "/cn/"
+      weight: 4
+  cn:
+    - name: "首页"
+      url: "/"
+      weight: 1
+    - name: "关于"
+      url: "/cn/about/"
+      weight: 2
+    - name: "博客"
+      url: "/cn/"
+      weight: 3
+    - name: "English"
+      url: "/en/"
+      weight: 4
+
+params:
+  description: "Personal website of Daijiang Li."
+  disqusURL: "http://daijiang.name"
+  fullURL: "https://daijiang.name"
+  dateFormat: "2006/01/02"
+  customCSS: ["css/custom.css"]
+  customJS: ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js"]
+  githubContentURL: "https://github.com/daijiang/"
+
+  # options for highlight.js (version, additional languages, and theme)
+  highlightjsVersion: "9.9.0"
+  highlightjsLang: ["r", "yaml", "tex"]
+  highlightjsTheme: "github"
+
+  social:
+    twitter: "_djli"
+    github: "daijiang"
+    weibo: "李代江"
+    weibo_url: "mydyo"
+
+  logo:
+    url: "logo.png"
+    width: 60
+    height: 50
+    alt: "Daijiang Li"
+
+  author:
+    en: "Daijiang Li"
+    cn: "李代江"
+
+  lang:
+    edit:
+      en: "Suggest an edit of this page"
+      cn: "编辑本页"
+
+blackfriday:
+    extensionsmask: ["noIntraEmphasis"]

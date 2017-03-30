@@ -1,0 +1,149 @@
+Abies balsamea (L.) Mill.
+Acer ginnala Maxim.
+Acer negundo L.
+Acer negundo L. var. interius (Britton) Sarg.
+Acer negundo L. var. negundo
+Acer negundo L. var. violaceum (Kirchn.) H.Jaeger
+Acer nigrum F.Michx.
+Acer pensylvanicum L.
+Acer platanoides L.
+Acer rubrum L. var. rubrum
+Acer saccharinum L.
+Acer saccharum Marshall var. saccharum
+Acer spicatum Lam.
+Acer X freemanii E.Murray
+Aesculus glabra Willd. var. glabra
+Ailanthus altissima (Mill.) Swingle
+Alnus glutinosa (L.) Gaertn.
+Alnus incana (L.) Moench subsp. rugosa (Du Roi) R.T.Clausen
+Amelanchier X neglecta Eggl. ex G.N.Jones (pro sp.)
+Betula alleghaniensis Britton
+Betula cordifolia Regel
+Betula nigra L.
+Betula papyrifera Marshall
+Betula pendula Roth
+Betula pendula Roth cv. Dalecarlica
+Betula pendula Roth var. pendula
+Betula populifolia Marshall
+Betula X purpusii C.K.Schneid.
+Betula X sandbergii Britton
+Carpinus caroliniana Walter subsp. virginiana (Marshall) Furlow
+Carya cordiformis (Wangenh.) K.Koch
+Carya ovata (Mill.) K.Koch var. ovata
+Carya X laneyi Sarg.
+Castanea dentata (Marshall) Borkh.
+Catalpa ovata G.Don
+Catalpa speciosa (Warder ex Barney) Warder ex Engelm.
+Celtis occidentalis L.
+Cercis canadensis L. var. canadensis
+Cornus alternifolia L.f.
+Crataegus beata Sarg.
+Crataegus calpodendron (Ehrh.) Medik.
+Crataegus chrysocarpa Ashe
+Crataegus crus-galli L.
+Crataegus dodgei Ashe
+Crataegus douglasii Lindl.
+Crataegus flabellata (Bosc ex Spach) K.Koch
+Crataegus holmesiana Ashe
+Crataegus irrasa Sarg.
+Crataegus margaretta Ashe
+Crataegus mollis (Torr. & A.Gray) Scheele
+Crataegus monogyna Jacq.
+Crataegus pedicellata Sarg.
+Crataegus pruinosa (H.Wendl.) K.Koch
+Crataegus punctata Jacq.
+Crataegus schuettei Ashe
+Crataegus succulenta Schrad. ex Link
+Elaeagnus angustifolia L.
+Fagus grandifolia Ehrh.
+Fraxinus americana L.
+Fraxinus nigra Marshall
+Fraxinus pennsylvanica Marshall
+Fraxinus quadrangulata Michx.
+Gleditsia triacanthos L.
+Gymnocladus dioicus (L.) K.Koch
+Juglans cinerea L.
+Juglans nigra L.
+Juniperus virginiana L. var. virginiana
+Kalopanax septemlobus (Thunb. ex A.Murray) Koidz.
+Larix laricina (Du Roi) K.Koch
+Maclura pomifera (Raf.) C.K.Schneid.
+Malus coronaria (L.) Mill.
+Malus ioensis (A.W.Wood) Britton var. ioensis
+Malus pumila Mill.
+Malus sieboldii (Regel) Rehder
+Morus alba L.
+Nyssa sylvatica Marshall var. sylvatica
+Ostrya virginiana (Mill.) K.Koch
+Phellodendron amurense Rupr.
+Picea abies (L.) H.Karst.
+Picea glauca (Moench) Voss
+Picea glauca (Moench) Voss X P. mariana (Mill.) Britton, Sterns & Poggenb.
+Picea mariana (Mill.) Britton, Sterns & Poggenb.
+Pinus banksiana Lamb.
+Pinus resinosa Aiton
+Pinus strobus L.
+Pinus sylvestris L.
+Platanus occidentalis L.
+Populus alba L.
+Populus balsamifera L. subsp. balsamifera
+Populus deltoides Bartram ex Marshall subsp. monilifera (Aiton) Eckenw.
+Populus grandidentata Michx.
+Populus nigra L. cv. Italica
+Populus tremuloides Michx.
+Populus X canescens (Aiton) Sm. (pro sp.)
+Populus X jackii Sarg.
+Prunus nigra Aiton
+Prunus pensylvanica L.f.
+Prunus persica (L.) Batsch
+Prunus serotina Ehrh.
+Prunus tomentosa Thunb.
+Prunus virginiana L. var. virginiana
+Quercus alba L.
+Quercus bicolor Willd.
+Quercus coccinea M�nchh.
+Quercus ellipsoidalis E.J.Hill
+Quercus ellipsoidalis E.J.Hill X Q. palustris M�nchh.
+Quercus ellipsoidalis E.J.Hill X Q. rubra L.
+Quercus macrocarpa Michx.
+Quercus muhlenbergii Engelm.
+Quercus palustris M�nchh.
+Quercus rubra L.
+Quercus velutina Lam.
+Quercus X bebbiana C.K.Schneid.
+Quercus X deamii Trel.
+Quercus X hawkinsii Sudw.
+Quercus X palaeolithicola Trel.
+Quercus X schuettei Trel.
+Rhamnus cathartica L.
+Robinia pseudoacacia L.
+Salix alba L.
+Salix alba L. var. alba
+Salix alba L. var. vitellina (L.) Stokes
+Salix amygdaloides Andersson
+Salix babylonica L.
+Salix bebbiana Sarg.
+Salix discolor Muhl.
+Salix fragilis L.
+Salix lucida Muhl. subsp. lucida
+Salix nigra Marshall
+Salix pentandra L.
+Salix serissima (L.H.Bailey) Fernald
+Salix X glatfelteri C.K.Schneid.
+Salix X rubens Schrank (pro sp.)
+Salix X smithiana Willd. (pro sp.)
+Shepherdia argentea (Pursh) Nutt.
+Sorbus americana Marshall
+Sorbus aucuparia L.
+Sorbus decora (Sarg.) C.K.Schneid.
+Syringa reticulata (Blume) Hara subsp. reticulata
+Syringa X persica L.
+Thuja occidentalis L.
+Tilia americana L. var. americana
+Tsuga canadensis (L.) Carri�re
+Ulmus americana L.
+Ulmus pumila L.
+Ulmus pumila L. X U. rubra Muhl.
+Ulmus rubra Muhl.
+Ulmus thomasii Sarg.
+Viburnum lentago L.
