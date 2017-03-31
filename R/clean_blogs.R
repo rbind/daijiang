@@ -22,6 +22,8 @@ fix_context = function(x){
   x
 }
 
+library(stringr)
+
 for(i in list.files("content/cn", full.names = T)){
   x = readLines(i)
   x_clean = fix_context(x)
@@ -29,6 +31,12 @@ for(i in list.files("content/cn", full.names = T)){
 }
 
 for(i in list.files("content/en", full.names = T)){
+  x = readLines(i)
+  x_clean = fix_context(x)
+  writeLines(x_clean, i)
+}
+
+for(i in list.files("content/zoey", full.names = T)){
   x = readLines(i)
   x_clean = fix_context(x)
   writeLines(x_clean, i)

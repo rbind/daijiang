@@ -13,6 +13,7 @@ footnotereturnlinkcontents: "↩"
 permalinks:
   cn: "/cn/:year/:month/:day/:slug/"
   en: "/en/:year/:month/:day/:slug/"
+  zoey: "/en/:year/:month/:day/:slug/"
 
 menu:
   main:
@@ -57,9 +58,19 @@ menu:
     - name: "博客"
       url: "/cn/"
       weight: 3
+    - name: "Zoey"
+      url: "/zoey/"
+      weight: 4
     - name: "English"
       url: "/en/"
-      weight: 4
+      weight: 5
+  zoey:
+    - name: "首页"
+      url: "/"
+      weight: 1
+    - name: "博客"
+      url: "/cn/"
+      weight: 2
 
 params:
   description: "Personal website of Daijiang Li."
