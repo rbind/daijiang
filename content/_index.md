@@ -7,6 +7,6 @@ disable_highlight: true
 
 <div id="widerimg">
     <img src="/images/yellow_trout_lily.jpg">
-    <br/>
-<strong> Community Ecology | Biodiversity and Ecosystem Functions | Prediction in a Changing Era | Statistics </strong>
 </div>
+
+<center><strong> Community Ecology | Biodiversity | Prediction in a Changing Era | Statistics </strong></center>

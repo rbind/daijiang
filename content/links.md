@@ -5,12 +5,12 @@ date: '2017-03-04'
 
 ## Wisconsin flora
 
-+ [List of Trees](http://daijiang.name/pdf/tree.txt)
-+ [List of Shrubs](http://daijiang.name/pdf/shrub.txt)
-+ [List of Vines](http://daijiang.name/pdf/vine.txt)
-+ [List of Fern/fern allies](http://daijiang.name/pdf/fern_fern_allies.txt)
-+ [List of Graminoids](http://daijiang.name/pdf/graminoids.txt)
-+ [Source of the above lists](http://daijiang.name/en/2014/03/17/plant-growth-form-list-of-wi-plants/)
++ [List of Trees](/pdf/tree.txt)
++ [List of Shrubs](/pdf/shrub.txt)
++ [List of Vines](/pdf/vine.txt)
++ [List of Fern/fern allies](/pdf/fern_fern_allies.txt)
++ [List of Graminoids](/pdf/graminoids.txt)
++ [Source of the above lists](/en/2014/03/17/plant-growth-form-list-of-wi-plants/)
 
 ## R
 
