@@ -42,6 +42,8 @@ Now you can put your old posts and webpages into the `content` folder. If you ar
 - tweak files in `layout` folder, e.g. `partials/footer.html` to change footers of your website;
 - if you want to close comments on some pages, put `disable_comments: true` in the yaml head.
 - because my previous posts have slightly different syntax, I need to update them one by one using some [R code](https://github.com/daijiang/website_hugo_source/blob/master/R/clean_blogs.R).
+- If you use Rstudio addins to creat a new post, set `options(blogdown.subdir = "content")` first, so then if you select subdirectory as `en` and title as `title`, then Rstudio will create the file as `content/en/date-title.md`, otherwise, it will create as `content/post/en/date-title.md`.
+    + Now, you can just open Rstudio and start to write your blogs!
 
 
 ## Push website into Github
