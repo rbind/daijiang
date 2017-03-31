@@ -38,14 +38,13 @@ p+geom_point(data=data,aes(long,lat,colour = type, shape=type),
 
 Or, another version:
 
-{% highlight r %}
+```r
 library(maps)
 ggplot(data, aes(long, lat))+
   borders("county","wisconsin", colour="grey70")+
   geom_point(colour="red",alpha= 0.5)+
   coord_quickmap()
 # maps("state", region = c("wisconsin", "michigan:north"))
-
 ```
 
 ![map-site](http://i.imgur.com/n7nuFKq.png)
