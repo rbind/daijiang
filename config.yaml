@@ -13,7 +13,7 @@ footnotereturnlinkcontents: "↩"
 permalinks:
   cn: "/cn/:year/:month/:day/:slug/"
   en: "/en/:year/:month/:day/:slug/"
-  zoey: "/en/:year/:month/:day/:slug/"
+  zoey: "/zoey/:year/:month/:day/:slug/"
 
 menu:
   main:
