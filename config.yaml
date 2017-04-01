@@ -71,6 +71,9 @@ menu:
     - name: "博客"
       url: "/cn/"
       weight: 2
+    - name: "Zoey"
+      url: "/zoey/"
+      weight: 3
 
 params:
   description: "Personal website of Daijiang Li."

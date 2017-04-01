@@ -4,7 +4,7 @@
 {{ end }}
 </h1>
 
-{{ if or (in (split "en,cn" ",") .Section) .Params.author }}
+{{ if or (in (split "en,cn,zoey" ",") .Section) .Params.author }}
 <div class="article-date">
   <span>{{ with or (or .Params.author (index .Site.Params.author .Section)) "" }} {{  print . " · " }} {{ end }} {{ .Date.Format "2006/01/02" }}</span>
   <span class="article-toolbar">
