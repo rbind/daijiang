@@ -8,6 +8,7 @@ You can get data from [here](http://link.springer.com/chapter/10.1007%2F978-1-46
 
 
 # Null models
+
 When conducting null modeling analyses, it is critical to:
 
 + obey the first rule that to fix all observed patterns in the randomization except the pattern of interest.
@@ -93,7 +94,6 @@ apply(reps.is, 3, colSums)
 ```
 
 ```r
-
 # abundance data
 com.data.a = matrix(c(3, 0, 2, 0, 10, 0, 4, 2, 3, 4, 5, 0, 6, 1, 2, 0, 0, 7), 
     3)
@@ -132,6 +132,7 @@ apply(reps.is.a, 3, colSums)
 When using null models on abundance data, it may be very hard to fix all obsrved properties aside from the one we are interested, as shown by the above example.
 
 ### Randomizing phylogenetic data
+
 Even the most constrained randomization of community data matrix may will change other patterns except the one we are interested. It is hard to determine whether the results from community data matrix randomization are unbiased and only informing about the pattern of interest. As a result, when asking about whether my community has a higher phylogenetic diversity than expected, we do **not** randomize communities. Instead, we randomize the phylogenetic distances between species in our community. This keeps all patterns in the community data matrix and is simper and faster than community data randomization.
 
 #### Unconstrained randomization
@@ -250,6 +251,7 @@ mclapply(1:1000, function(i, ...) {
 
 
 ### Null models for phylo and functional beta diversity
+
 Using name shuffling of the phylogeny is usually better than randomize community data matrix using independent swap, especially for phylogenetic and functional beta diversity analyses. It is recommended not to use independent swap null models for phylo and functional beta diversity since independent swap null model does not maintain the spatial structure of species in the system.
 
 

@@ -1,12 +1,10 @@
 ---
-title:  Winners and losers&#58; replicated G-test
+title:  Winners and losers replicated G-test
 date: '2014-01-15'
 slug: winners-and-losers
 ---
 
-For long-term community dynamic studies, one question is which species are winners and which are losers after several decades.
-People use Indicator species analysis (ISA, Dufrene & Legendre 1997) or replicated G-teset (repG, Sokal & Rohlf 1995). 
-For ISA, one can use the R package `labdsv` to do this. But there is no r function to do the repG.
+For long-term community dynamic studies, one question is which species are winners and which are losers after several decades. People use Indicator species analysis (ISA, Dufrene & Legendre 1997) or replicated G-teset (repG, Sokal & Rohlf 1995). For ISA, one can use the R package `labdsv` to do this. But there is no r function to do the repG.
 
 Here, following Wiegmann & Waller (2006), I wrote a dirty R function for repG. The inputs are:
 
@@ -17,7 +15,7 @@ period.
 + `old.quad`: how many quadrats per site in the old date? One reason for this is that not all resurveys used the same method as before.
 + `new.quad`: how many quadrats per site in the new date?
 
-{% highlight r %}
+```r
 repG = function(dataframe, nsite = 30, old.quad = 20, new.quad = 50) {
   rep.gtest = vector(mode = "list")
   library(plyr)

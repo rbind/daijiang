@@ -8,10 +8,12 @@ It is important to study phylogenetic and functional beta diversity as well as t
 
 Example data can be found at [here](http://link.springer.com/chapter/10.1007%2F978-1-4614-9542-0_5)
 
-## Tree-based measures of phylogenetic beta diversity
+# Tree-based measures of phylogenetic beta diversity
+
 The following metrics have been usually used on phylogenetic trees, but could potentially be used on dendrograms constructed from trait data.
 
-###UniFrac
+## UniFrac
+
 UniFrac is the first tree-based metric for phylogenetic and functional beta diversity. It seeks to quantify the unique fraction of the phylogeny contained in each of the two communities being compared.
 `\[
 UniFrac_{A,B}=\frac{PD_{A\cup B}-PD_{A\cap B}}{PD_{A\cup B}}
@@ -38,7 +40,8 @@ GUniFrac(my.sample, my.phylo, alpha = c(0.5, 1))
 ```
 
 
-### Phylogenetic Sorenson's index
+## Phylogenetic Sorenson's index
+
 The unifrac index above is a dissimilarity index while this one is a similarity one. They are highly correlated (monotonic) with each other.
 `\[
 PhyloSor=2\times\frac{bl_{AB}}{bl_{A}+bl_{B}}
@@ -54,10 +57,12 @@ phylosor(my.sample, my.phylo)
 ```
 
 
-## Distance-based measures of phylogenetic and functional beta diversity
+# Distance-based measures of phylogenetic and functional beta diversity
+
 The distance-based measures of beta diversity are more preferable for most analyses compare with tree-based ones. They are faster to compute, are able to handlw phylogenetic and functional information. Since most published indices are highly correlated with each other, we will focus on one general type of pairwise and one general type of nearest neighbor matric.
 
-###Pairwise measures
+## Pairwise measures
+
 The pairwise phylogenetic or trait distance (abundance weighted and unweighted) between communities can be calculated by using the `comdist()` function in the `picante` package.
 
 ```r
@@ -65,7 +70,8 @@ comdist(my.sample, cophenetic(my.phylo), abundance.weighted = F)
 ```
 
 
-###Nearest neighbor measures
+## Nearest neighbor measures
+
 `\[
 D_{nn}=\frac{\sum_{i}^{n_{k_{1}}}min\delta_{ik_{2}}+\sum_{j}^{n_{k_{2}}}min\delta_{jk_{1}}}{n_{k_{1}}+n_{k_{2}}}
 \]`
@@ -80,7 +86,8 @@ comdistnt(my.sample, cophenetic(my.phylo), abundance.weighted = FALSE, exclude.c
 ```
 
 
-### Rao
+## Rao
+
 We can calculate Rao's dissimilarity metrics using `raoD()` function in the `picante` package.
 
 ```r
