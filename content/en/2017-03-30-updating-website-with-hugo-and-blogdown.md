@@ -46,7 +46,9 @@ Now you can put your old posts and webpages into the `content` folder. If you ar
     + Now, you can just open Rstudio and start to write your blogs!
 
 
-## Push website into Github
+# Publish your website
+
+## Approach 1: Push website into Github
 
 Now, you need to create two repositories at Github: one to host the hugo folder and one to host the generated website (i.e. the `public` folder). Suppose you have two repositories now: `username.github.io` (to host generated website) and `website` (to host hugo code). Within your website folder:
 
@@ -69,13 +71,17 @@ git commit -m "Build website"
 git push -u origin master
 ```
 
+## Approach 2: Use Netlify
+
+The free plan of [netlify](www.netlify.com) can meet all my requirements: build my website from the source, https, and custom domain. So I have deployed my website there. The good thing is that I do not need to push the `public` folder to github anymore. Whenever I change the source code of my website, netlify will automatically rebuild my website for me! How cool it that?
 
 ## Issues
 
 Here are some issues I still have:
 
 - I used to have my Chinese and English blogs separated; and I have two short names for Disqus comments for them. Now I have merged these two blogs into one folder, but I cannot merge their comments too. I can only choose one shortname. Any solutions?
-- In this setup (submodule for `public` folder), whenever I rebuild the site, almost all webpages in the `public` folder changed and need to commit and push to github?? Why?
+- ~~In this setup (submodule for `public` folder), whenever I rebuild the site, almost all webpages in the `public` folder changed and need to commit and push to github?? Why?~~
+  + It turns out that Hugo will rebuild webpages that have been changed (e.g. lists of blog posts) but not all of them. So, this is not an issue anymore.
 - to be updated.
 
 ## Useful links
