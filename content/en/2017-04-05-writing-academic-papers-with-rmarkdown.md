@@ -4,18 +4,18 @@ slug: writing-academic-papers-with-rmarkdown
 date: '2017-04-05'
 ---
 
-> TL;DR: just jump to the [Github repository](https://github.com/daijiang/workflow_demo) to see the examples.
+> TL;DR: Rmarkdown and bookdown are awesome; you should use it to write papers; and [here](https://github.com/daijiang/workflow_demo) is a minimal example.
 
 I have been using LaTex for most of the [papers](/resume) I have published so far (admittedly not that many), even though *all* of my co-authors use Microsoft Word. Why? Several reasons for this. 
 
 1. When wrting, we should only focus on the content, not worrying about the typesetting, which we will take care later. Word, on the other hand, allows you to see what you get when you write. This makes people (me at least) hard to ignore the typesetting when writing. 
 2. It is hard to update the figures and pictures inserted into the manuscript in Word. You need delete old ones and insert new ones whenever your figures are updated. Of course, you can say that do not insert figures until the submission. But wouldn't it be easier to revise the manuscript when figures are included in the main text? Using LaTex, I can just put the path of figures there and not worry about replace them in the main text.
-3. I agree with the concept of [literature programming](https://en.wikipedia.org/wiki/Literate_programming). LaTex allows us to mix code with text in the same file, which increases the reproducibility and decreases potential errors.
-4. Cross-references is easy in LaTex (just `\label` and `\ref`). within Word, it is painful to get the samething.
+3. [Literature programming:](https://en.wikipedia.org/wiki/Literate_programming) LaTex allows us to mix code with text in the same file, which increases the reproducibility and decreases potential errors.
+4. Cross-references is easy in LaTex (just `\label` and `\ref`). With Word, it is painful to get the same thing.
 
-However, LaTex has its learning curve and quirks. And even though it intends to make people to focus on content, we usually spend lots of time fighting with things like floats. Not to mention the collaboration barrier betwen its users to Word users. When I finished a draft of my paper, I need to convert it to Word using pandoc so my advisor can edit. Doing it this way, however, figures and tables are usually messed up, as well as cross-references. Tables will be just LaTex source codes there; cross-references will be replaced with their labels (e.g. see Table tab-labels instead of see Table 1). So everytime, I need to write something like "please do not care the typesetting" in the email to my advisor.
+However, LaTex has its learning curve and quirks. And even though it intends to make people to focus on content, we usually spend lots of time fighting with things like floats. Not to mention the collaboration barrier betwen its users to Word users. When I finished a draft of my paper, I need to convert it to Word using pandoc so my advisor can edit. Doing it this way, however, figures and tables are usually messed up, as well as cross-references. Tables will be just LaTex source codes there; cross-references will be replaced with their labels (e.g. see Table tab-labels instead of see Table 1). So everytime, I need to write something like "please do not care about the typesetting" in the email to my advisor.
 
-Until recently, I found that the convertion from LaTex and Rmarkdown to Word is reasonably good, thanks to [`bookdown`](https://bookdown.org/yihui/bookdown/) by [Yihui](www.yihui.name). Recently, I just finished my first manuscript written in Rmarkdown 100%. Both my advisor and I are quite happy with it. Therefore, in this post, I am going to talk briefly the whole process of writing academic papers with Rmarkdown.
+Until recently, I found that the convertion from LaTex and Rmarkdown to Word is reasonably good, thanks to [`bookdown`](https://bookdown.org/yihui/bookdown/) by [Yihui](www.yihui.name). I just finished my first manuscript written in Rmarkdown 100%. Both my advisor and I are quite happy with it. Therefore, in this post, I am going to talk briefly the process of writing academic papers with Rmarkdown.
 
 # Markdown and Rmarkdown
 
@@ -29,7 +29,7 @@ In this post, I have installed the following R packages: `bookdown`, `rmarkdown`
 
 # Writing with Rmarkdown
 
-After installing all dependencies, we can open Rstudio (or any text editor) to start write. I use Rstudio to start the file and work with R code chucks. For the remaining, however, I use Sublime text or Atom. This is mainly because the lack of distraction free function for the source panel. All files can be found [here](https://github.com/daijiang/workflow_demo).
+After installing all dependencies, we can open Rstudio (or any text editor) and start writing. I use Rstudio to start the file and work with R code chucks. For the remaining, however, I use Sublime text or Atom. This is mainly because the lack of distraction free function in Rstudio.
 
 ## Yaml head
 
@@ -64,13 +64,13 @@ A few notes here:
 
 - I use the `bookdown::pdf_document2`, and other `bookdown::...document2`, which allow cross-references and other features possible.
 - For pdf files, I included some tex files (`preamble.tex`, which includes some packages I use, e.g. lineno to add line numbers; and `doc_prefix.tex`, which allows text align at left only).
-- References are put in the bib file. You can use common reference management software to create a bib file.
+- References are put in the bib file. You can use common reference management software to create a bib file. Or you can search through Google Scholar and click on `cite` under the paper and choose `bibtex` form, then copy and paste the information into a bib file.
 - `link-citations: yes` allows you click on a citation/table/figure and jumpo to the corresponding location.
 - csl files are journal style files and can be a url like here or a local file.
 
 ## R chunks
 
-In my [project set up](https://github.com/daijiang/workflow_demo), I have `.Rproj` file in the project folder, then I have `R`, `Doc`, etc. folders. R scripts are located within the `R` folder while the Rmarkdown file for the manuscript is in the `Doc` folder. By default, when you knit the Rmarkdown file with Rstudio, it will treat the folder where the Rmarkdown file seated as word space even though the `.Rproj` file is in the folder one level up. This is a little bit annoying because the path will be different if you click the `knit` button from run part of the chunks within Rstudio.
+In my [project set up](https://github.com/daijiang/workflow_demo), I have `.Rproj` file in the project folder, then I have `R`, `Doc`, etc. folders. R scripts are located within the `R` folder while the Rmarkdown file for the manuscript is in the `Doc` folder. By default, when you knit the Rmarkdown file with Rstudio, it will treat the folder where the Rmarkdown file seated as work space even though the `.Rproj` file is in the folder one level up. This is a little bit annoying because the path will be different if you click the `knit` button from running part of the chunks within Rstudio.
 
 To let Rstudio know that we want use the parent folder as the work space, we can add this chunk at the beginning of the file:
 
@@ -114,7 +114,7 @@ Figures are very similar to cross-refer with tables. Basically, you use `Figure 
 See more examples in the [github file](https://github.com/daijiang/workflow_demo/blob/master/Doc/ms.Rmd).
 
 
-These pretty much cover most of the common features of scientific writing: citations, cross-references, tables, figures.
+These pretty much cover most of the common features of scientific writing: citations, cross-references, tables, figures. You can checkout [`bookdown`](https://bookdown.org/yihui/bookdown/) website for details. Even though `bookdown` is made for writing books, it is actually very good for writing papers too!
 
 How do you set up Rmarkdown for writing? What tips do you have? Issues? Comments are very welcome. Or even better, you can click the `pen on paper` button at the top right of the post and edit it.
 ![edit this page](http://i.imgur.com/INZSdHa.png?1)
