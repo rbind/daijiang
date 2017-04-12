@@ -6,7 +6,7 @@ slug: clipping-shape-files-in-r
 
 Suppose we have two shape files: one larger (e.g. shapefile of ecoregions of North American) and one smaller (e.g. shapefile of US lower states). How can we get the shapefile of ecoregions for only the US lower states? 
 
-After a little bit searching [^mainly this post: https://philmikejones.wordpress.com/2015/09/01/clipping-polygons-in-r/], I came with the following R function:
+After a little bit searching ^[mainly this post: https://philmikejones.wordpress.com/2015/09/01/clipping-polygons-in-r/], I came with the following R function:
 
 ```r
 library(rgeos)
@@ -44,6 +44,8 @@ thin = function(x, tol = 0.01){
   data.frame(long = x2$x, lat = x2$y, id = id)
 }
 
+library(ggplot2)
+library(dplyr)
 # convert shapefile to data frame
 shp_df = fortify(shp, region = "NAME") # change the region accordingly
 # for each group, thin it
