@@ -29,7 +29,7 @@ clip_shp = function(small_shp, large_shp){
 }
 ```
 
-By running `clip_shp()` function, we will return a shapefile of the intersections between the two input files.
+By running `clip_shp()` function, we will return a shapefile of the intersections between the two input files ^[Of course, you need to read them first into R. E.g. `small_shp = rgdal::readOGR("path/to/file), layer = "file_name`].
 
 
 Another problem is that such kind of shapefiles are too large to plot. `ggplot()` may run forever with the data frame fortified from the shapefile. One solution is to first convert the shapefile into a data frame, then thin the data frame. Simply using `dplyr::sample_frac()` won't work though. Here is a function I wrote (though kind of slow):
