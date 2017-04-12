@@ -92,6 +92,13 @@ code {
   color: #222;
 }
 
+.article-content {
+  hyphens: auto;
+}
+code {
+  hyphens: none;
+}
+
 iframe, twitterwidget {
   display: block;
   margin: auto;
