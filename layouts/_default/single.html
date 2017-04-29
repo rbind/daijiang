@@ -7,6 +7,8 @@
     <span class="article-duration">{{ .ReadingTime }} min read</span>
     {{ else if eq .Section "cn" }}
     <span class="article-duration">{{ .WordCount }} 字</span>
+        {{ else if eq .Section "zoey" }}
+    <span class="article-duration">{{ .WordCount }} 字</span>
     {{ end }}
     {{ partial "article_meta.html" . }}
 
