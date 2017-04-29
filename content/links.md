@@ -1,31 +1,25 @@
 ---
-Title: Links
 date: '2017-03-04'
 ---
 
-## Wisconsin flora
+### R
 
-+ [List of Trees](/pdf/tree.txt)
-+ [List of Shrubs](/pdf/shrub.txt)
-+ [List of Vines](/pdf/vine.txt)
-+ [List of Fern/fern allies](/pdf/fern_fern_allies.txt)
-+ [List of Graminoids](/pdf/graminoids.txt)
-+ [Source of the above lists](/en/2014/03/17/plant-growth-form-list-of-wi-plants/)
-
-## R
-
-+ [R](http://www.r-project.org/) a powerful free statistic tool!
 + [R-resources](http://www.cerebralmastication.com/r-resources/) listed by Cerebral Mastication.
-+ [R-resources](http://schamberlain.github.com/R-esources.html) listed by Recology.
 + [R tips](http://www.zoology.ubc.ca/~schluter/R/) by Dr. Dolph Schluter, UBC.
-+ [R functions](http://www.sr.bham.ac.uk/~ajrs/R/r-function_list.html/) a useful list of R functions.
-+ [10 R packages](http://blog.yhathq.com/posts/10-R-packages-I-wish-I-knew-about-earlier.html) I wish I knew about eariler.
-+ [ggplot2](http://docs.ggplot2.org/current/) a R package for graphics.
-+ [Cookbook for R](http://www.cookbook-r.com/).
 + [UCLA](http://www.ats.ucla.edu/stat/r/)'s resources for R (and more).
 + [R-OpenScience](http://ropensci.org/packages/index.html) some free tools for research.
++ [ggplot2](http://ggplot2.tidyverse.org): a R package for graphics.
++ [Cookbook for R](http://www.cookbook-r.com/).
++ [ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
++ [ggplot2 quick reference](http://sape.inf.usi.ch/quick-reference/ggplot2)
++ [R graph catalog](http://shinyapps.stat.ubc.ca/r-graph-catalog/): a collection of R plots (mostly ggplot2 plots)
++ [R graph compendium](http://shinyapps.org/apps/RGraphCompendium/index.php): another collection of R plots
++ [list of colors](http://www.colorhexa.com/color-names)
++ [R colors](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf)
 
-## LaTeX
+
+
+### LaTeX
 
 + [LaTeX](http://www.latex-project.org/) A document preparation system.
 + [LaTeX styles](http://schneider.ncifcrf.gov/latex.html) for biologists.
@@ -34,12 +28,14 @@ date: '2017-03-04'
 + [Lyx](http://www.lyx.org/) a nice UGI of LaTeX.
 + [Lyz](https://github.com/willsALMANJ/lyz) a add-on of Lyx for reference citation.
 
-## Phylogenetic tools
+### Wisconsin flora
 
-## Blogs
-
-+ [Timothee Poisot](http://timotheepoisot.fr/) ecological netowek analysis.
-+ [The EEB & Flow](http://evol-eco.blogspot.ca/)
++ [List of Trees](/pdf/tree.txt)
++ [List of Shrubs](/pdf/shrub.txt)
++ [List of Vines](/pdf/vine.txt)
++ [List of Fern/fern allies](/pdf/fern_fern_allies.txt)
++ [List of Graminoids](/pdf/graminoids.txt)
++ [Source of the above lists](/en/2014/03/17/plant-growth-form-list-of-wi-plants/)
 
 ## Misc.
 
