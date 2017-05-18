@@ -1,5 +1,4 @@
-baseurl: "/"
-relativeurls: true
+baseurl: "https://daijiang.name/"
 languageCode: "en-us"
 title: "Daijiang Li"
 theme: "hugo-lithium-theme"
@@ -9,6 +8,7 @@ ignoreFiles: ["\\.Rmd$", "_files$", "_cache$"]
 hasCJKLanguage: true
 enableEmoji: true
 footnotereturnlinkcontents: "↩"
+rssLimit: 30
 
 permalinks:
   cn: "/cn/:year/:month/:day/:slug/"
@@ -78,17 +78,19 @@ menu:
 params:
   description: "Personal website of Daijiang Li."
   disqusURL: "http://daijiang.name"
-  fullURL: "https://daijiang.name"
   dateFormat: "2006/01/02"
   customCSS: ["css/custom.css"]
   customJS: ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js"]
   githubContentURL: "https://github.com/rbind/daijiang/edit/master/content/"
 
   # options for highlight.js (version, additional languages, and theme)
-  highlightjsVersion: "9.10.0"
+  highlightjsVersion: "9.11.0"
   highlightjsCDN: "//cdn.bootcss.com"
   highlightjsLang: ["r", "yaml", "tex"]
   highlightjsTheme: "github"
+
+  MathJaxVersion: "2.7.1"
+  MathJaxCDN: "//cdn.bootcss.com"
 
   social:
     twitter: "_djli"
