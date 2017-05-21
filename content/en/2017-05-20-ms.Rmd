@@ -1,0 +1,33 @@
+---
+title: Citations, cross references, and custom figure path in blog post 
+date: '2017-05-20'
+slug: ms-post
+link-citations: no
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/global-ecology-and-biogeography.csl
+bibliography: ref.bib
+---
+
+Goal: I want to write academic style blog posts: citations, cross-refernece of tables and figures, and I want to manage figure path by myself. The default setting of blogdown can handle citations and cross-references pretty well, but the figures are nested too deep. For example, I just want to put all figures under `static/figures`.
+
+=========
+
+Testing paragraph:
+
+Invasion of non-native species, one of the most widespread and harmful consequences of global change, is causing worldwide ecosystem degradation and economic loss [@vila2011ecological; @simberloff2013impacts]. Biological invasions alter rates of nutrient cycling [@liao2008altered; @chen2013non], decrease local species diversity [@hejda2009impact; @vila2011ecological], and ultimately threaten ecosystem services [@pejchar2009invasive; @ehrenfeld2010ecosystem; @walsh2016invasive]. 
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example Figure \@ref(fig:pressure):
+
+```{r pressure, echo=FALSE, fig.cap="Here is figure caption."}
+plot(pressure)
+```
+
+I can have citations and manage to put all figures under `static/figures`. However, I cannot figure out how to solve the cross-reference issue (i.e. `Figure \@ref(fig:pressure)` instead of `Figure 1`).
+
+# References
+
