@@ -2,7 +2,7 @@
 title: Blog posts with academic styles 
 date: '2017-05-20'
 slug: academic-posts
-link-citations: no
+link-citations: yes
 csl: https://raw.githubusercontent.com/citation-style-language/styles/master/global-ecology-and-biogeography.csl
 bibliography: ref.bib
 ---
