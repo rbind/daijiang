@@ -1,7 +1,7 @@
 ---
-title: Citations, cross references, and custom figure path in blog post 
+title: Blog posts with academic styles 
 date: '2017-05-20'
-slug: ms-post
+slug: academic-posts
 link-citations: no
 csl: https://raw.githubusercontent.com/citation-style-language/styles/master/global-ecology-and-biogeography.csl
 bibliography: ref.bib
@@ -12,10 +12,21 @@ from_Rmd: yes
 
 <!-- BLOGDOWN-BODY-BEFORE -->
 <!-- /BLOGDOWN-BODY-BEFORE -->
-<p>Goal: I want to write academic style blog posts: citations, cross-refernece of tables and figures, and I want to manage figure path by myself. The default setting of blogdown can handle citations and cross-references pretty well, but the figures are nested too deep. For example, I just want to put all figures under <code>static/figures</code>.</p>
-<p>=========</p>
-<p>Testing paragraph:</p>
-<p>Invasion of non-native species, one of the most widespread and harmful consequences of global change, is causing worldwide ecosystem degradation and economic loss <span class="citation">(Vilà <em>et al.</em>, 2011; Simberloff <em>et al.</em>, 2013)</span>. Biological invasions alter rates of nutrient cycling <span class="citation">(Liao <em>et al.</em>, 2008; Chen <em>et al.</em>, 2013)</span>, decrease local species diversity <span class="citation">(Hejda <em>et al.</em>, 2009; Vilà <em>et al.</em>, 2011)</span>, and ultimately threaten ecosystem services <span class="citation">(Pejchar &amp; Mooney, 2009; Ehrenfeld &amp; others, 2010; Walsh <em>et al.</em>, 2016)</span>.</p>
+<p>Goal: I want to write academic style blog posts with: citations, cross-refernece of tables and figures, and I want to manage figure path by myself. The default setting of blogdown can handle citations and cross-references pretty well, but the figures are nested too deep. I just want to put all figures under <code>static/figures</code>.</p>
+<p>After a bit of digging, <a href="https://github.com/rbind/daijiang/blob/master/R/build_one.R">I managed to do this</a>. The main trick is to add a <code>knitr</code> setup chunk to the Rmd file, and then parse it with <code>blogdown::render_page()</code>, based on <a href="https://github.com/rbind/yihui/tree/master/R">Yihui’s set up</a>. If a post does not have any figures, it will pass the first step and go directly with <code>blogdown::render_page()</code>. I did not look through all functions available from the <code>blogdown</code> package. But I am sure there must be a better way to do this. Anyway, I get what I want at this moment.</p>
+<hr />
+<div id="citations" class="section level2">
+<h2>Citations</h2>
+<p>For citations, put the bibtex file in the same folder as the post, and then add <code>bibliography: ref.bib</code> in the yaml. You can even define the citation styles via <code>csl: url_of_csl_file</code> in the yaml.<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> Thousands of csl files are available at <a href="https://github.com/citation-style-language/styles">Github CSL repository</a>. Go and find one you like and paste the url in the yaml.</p>
+<p>Testing paragraph: Invasion of non-native species, one of the most widespread and harmful consequences of global change, is causing worldwide ecosystem degradation and economic loss <span class="citation">(Vilà <em>et al.</em>, 2011; Simberloff <em>et al.</em>, 2013)</span>.</p>
+</div>
+<div id="math-equations" class="section level2">
+<h2>Math equations</h2>
+<p>Here is inline equations <span class="math inline">\(a^2 + b^2 = c^2\)</span>; and display equations:</p>
+<p><span class="math display">\[f(x)=\frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-\mu)^{2}}{2\sigma^{2}}}\]</span></p>
+</div>
+<div id="r-code-chunk" class="section level2">
+<h2>R code chunk</h2>
 <pre class="r"><code>summary(cars)</code></pre>
 <pre><code>##      speed           dist    
 ##  Min.   : 4.0   Min.   :  2  
@@ -24,41 +35,74 @@ from_Rmd: yes
 ##  Mean   :15.4   Mean   : 43  
 ##  3rd Qu.:19.0   3rd Qu.: 56  
 ##  Max.   :25.0   Max.   :120</code></pre>
-<div id="including-plots" class="section level2">
-<h2>Including Plots</h2>
-<p>You can also embed plots, for example Figure <a href="#fig:pressure"><strong>??</strong></a>:</p>
-<div class="figure">
-<img src="/figures/en/2017-05-20-ms/pressure-1.png" alt="Here is figure caption." />
-<p class="caption">Here is figure caption.</p>
 </div>
-<p>I can have citations and manage to put all figures under <code>static/figures</code>. However, I cannot figure out how to solve the cross-reference issue (i.e. <code>Figure \@ref(fig:pressure)</code> instead of <code>Figure 1</code>).</p>
+<div id="including-plots-and-cross-refer-it-back" class="section level2">
+<h2>Including plots and cross-refer it back</h2>
+<p>You can also embed plots and cross-refer it with <code>\@ref(fig:figure-label)</code>, for example Figure <a href="#fig:pressure">1</a>:</p>
+<pre class="r"><code>plot(pressure)</code></pre>
+<div class="figure"><span id="fig:pressure"></span>
+<img src="/figures/en/2017-05-20-ms/pressure-1.png" alt="Here is figure caption." width="576" />
+<p class="caption">
+Figure 1: Here is figure caption.
+</p>
+</div>
+</div>
+<div id="table-and-cross-reference" class="section level2">
+<h2>Table and cross-reference</h2>
+<p>You can also print tablesand cross-refer it with <code>\@ref(tab:table-label)</code>, for example Table <a href="#tab:pressure2">1</a>:</p>
+<pre class="r"><code>knitr::kable(head(pressure), caption = &quot;Table legend.&quot;)</code></pre>
+<table>
+<caption><span id="tab:pressure2">Table 1: </span>Table legend.</caption>
+<thead>
+<tr class="header">
+<th align="right">temperature</th>
+<th align="right">pressure</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="right">0</td>
+<td align="right">0.0002</td>
+</tr>
+<tr class="even">
+<td align="right">20</td>
+<td align="right">0.0012</td>
+</tr>
+<tr class="odd">
+<td align="right">40</td>
+<td align="right">0.0060</td>
+</tr>
+<tr class="even">
+<td align="right">60</td>
+<td align="right">0.0300</td>
+</tr>
+<tr class="odd">
+<td align="right">80</td>
+<td align="right">0.0900</td>
+</tr>
+<tr class="even">
+<td align="right">100</td>
+<td align="right">0.2700</td>
+</tr>
+</tbody>
+</table>
+<p>That’s it.</p>
+<p>Any suggestions to improve this workflow? Comment below or send me a pull request. Thanks.</p>
 </div>
 <div id="references" class="section level1 unnumbered">
 <h1>References</h1>
 <div id="refs" class="references">
-<div id="ref-chen2013non">
-<p>Chen, B., Peng, S., D’Antonio, C.M., Li, D. &amp; Ren, W. (2013) Non-additive effects on decomposition from mixing litter of the invasive mikania micrantha hbk with native plants. <em>Plos One</em>, <strong>8</strong>, e66289.</p>
-</div>
-<div id="ref-ehrenfeld2010ecosystem">
-<p>Ehrenfeld, J.G. &amp; others (2010) Ecosystem consequences of biological invasions. <em>Annual Review of Ecology, Evolution and Systematics</em>, <strong>41</strong>, 59–80.</p>
-</div>
-<div id="ref-hejda2009impact">
-<p>Hejda, M., Pyšek, P. &amp; Jarošík, V. (2009) Impact of invasive plants on the species richness, diversity and composition of invaded communities. <em>Journal of Ecology</em>, <strong>97</strong>, 393–403.</p>
-</div>
-<div id="ref-liao2008altered">
-<p>Liao, C., Peng, R., Luo, Y., Zhou, X., Wu, X., Fang, C., Chen, J. &amp; Li, B. (2008) Altered ecosystem carbon and nitrogen cycles by plant invasion: A meta-analysis. <em>New phytologist</em>, <strong>177</strong>, 706–714.</p>
-</div>
-<div id="ref-pejchar2009invasive">
-<p>Pejchar, L. &amp; Mooney, H.A. (2009) Invasive species, ecosystem services and human well-being. <em>Trends in ecology &amp; evolution</em>, <strong>24</strong>, 497–504.</p>
-</div>
 <div id="ref-simberloff2013impacts">
 <p>Simberloff, D., Martin, J.-L., Genovesi, P., Maris, V., Wardle, D.A., Aronson, J., Courchamp, F., Galil, B., García-Berthou, E., Pascal, M. &amp; others (2013) Impacts of biological invasions: What’s what and the way forward. <em>Trends in ecology &amp; evolution</em>, <strong>28</strong>, 58–66.</p>
 </div>
 <div id="ref-vila2011ecological">
 <p>Vilà, M., Espinar, J.L., Hejda, M., Hulme, P.E., Jarošík, V., Maron, J.L., Pergl, J., Schaffner, U., Sun, Y. &amp; Pyšek, P. (2011) Ecological impacts of invasive alien plants: A meta-analysis of their effects on species, communities and ecosystems. <em>Ecology letters</em>, <strong>14</strong>, 702–708.</p>
 </div>
-<div id="ref-walsh2016invasive">
-<p>Walsh, J.R., Carpenter, S.R. &amp; Vander Zanden, M.J. (2016) Invasive species triggers a massive loss of ecosystem services through a trophic cascade. <em>Proceedings of the National Academy of Sciences</em>, <strong>113</strong>, 4081–4085.</p>
 </div>
 </div>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>A local file in the same folder will work too.<a href="#fnref1">↩</a></p></li>
+</ol>
 </div>

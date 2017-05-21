@@ -1,33 +1,55 @@
 ---
-title: Citations, cross references, and custom figure path in blog post 
+title: Blog posts with academic styles 
 date: '2017-05-20'
-slug: ms-post
+slug: academic-posts
 link-citations: no
 csl: https://raw.githubusercontent.com/citation-style-language/styles/master/global-ecology-and-biogeography.csl
 bibliography: ref.bib
 ---
 
-Goal: I want to write academic style blog posts: citations, cross-refernece of tables and figures, and I want to manage figure path by myself. The default setting of blogdown can handle citations and cross-references pretty well, but the figures are nested too deep. For example, I just want to put all figures under `static/figures`.
+Goal: I want to write academic style blog posts with: citations, cross-refernece of tables and figures, and I want to manage figure path by myself. The default setting of blogdown can handle citations and cross-references pretty well, but the figures are nested too deep. I just want to put all figures under `static/figures`.
 
-=========
+After a bit of digging, [I managed to do this](https://github.com/rbind/daijiang/blob/master/R/build_one.R). The main trick is to add a `knitr` setup chunk to the Rmd file, and then parse it with `blogdown::render_page()`, based on [Yihui's set up](https://github.com/rbind/yihui/tree/master/R). If a post does not have any figures, it will pass the first step and go directly with `blogdown::render_page()`. I did not look through all functions available from the `blogdown` package. But I am sure there must be a better way to do this. Anyway, I get what I want at this moment.
 
-Testing paragraph:
+************
 
-Invasion of non-native species, one of the most widespread and harmful consequences of global change, is causing worldwide ecosystem degradation and economic loss [@vila2011ecological; @simberloff2013impacts]. Biological invasions alter rates of nutrient cycling [@liao2008altered; @chen2013non], decrease local species diversity [@hejda2009impact; @vila2011ecological], and ultimately threaten ecosystem services [@pejchar2009invasive; @ehrenfeld2010ecosystem; @walsh2016invasive]. 
+## Citations
+
+For citations, put the bibtex file in the same folder as the post, and then add `bibliography: ref.bib` in the yaml. You can even define the citation styles via `csl: url_of_csl_file` in the yaml.^[A local file in the same folder will work too.] Thousands of csl files are available at [Github CSL repository](https://github.com/citation-style-language/styles). Go and find one you like and paste the url in the yaml. 
+
+Testing paragraph: Invasion of non-native species, one of the most widespread and harmful consequences of global change, is causing worldwide ecosystem degradation and economic loss [@vila2011ecological; @simberloff2013impacts]. 
+
+## Math equations
+
+Here is inline equations $a^2 + b^2 = c^2$; and display equations:
+
+$$f(x)=\frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-\mu)^{2}}{2\sigma^{2}}}$$
+
+## R code chunk
 
 ```{r cars}
 summary(cars)
 ```
 
-## Including Plots
+## Including plots and cross-refer it back
 
-You can also embed plots, for example Figure \@ref(fig:pressure):
+You can also embed plots and cross-refer it with `\@ref(fig:figure-label)`, for example Figure \@ref(fig:pressure):
 
-```{r pressure, echo=FALSE, fig.cap="Here is figure caption."}
+```{r pressure, fig.cap="Here is figure caption."}
 plot(pressure)
 ```
 
-I can have citations and manage to put all figures under `static/figures`. However, I cannot figure out how to solve the cross-reference issue (i.e. `Figure \@ref(fig:pressure)` instead of `Figure 1`).
+## Table and cross-reference
+
+You can also print tablesand cross-refer it with `\@ref(tab:table-label)`, for example Table \@ref(tab:pressure2):
+
+```{r pressure2}
+knitr::kable(head(pressure), caption = "Table legend.")
+```
+
+That's it.
+
+Any suggestions to improve this workflow? Comment below or send me a pull request. Thanks.
 
 # References
 
