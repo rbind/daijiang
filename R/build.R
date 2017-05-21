@@ -4,7 +4,8 @@ local = cargs[1] == 'TRUE'
 
 build_one = function(io)  {
   # if output is newer than input, skip the compilation
-  if (file_test('-nt', io[2], io[1])) return()
+  if (file.exists(io[2]) & file_test('-nt', io[2], io[1])) return()
+  if (file.exists(io[3]) & file_test('-nt', io[3], io[1])) return()
 
   if (local) message('* knitting ', io[1])
   if (blogdown:::Rscript(shQuote(c('R/build_one.R', io))) != 0) {
@@ -16,7 +17,7 @@ build_one = function(io)  {
 # build Rmd files under the content directory
 rmds = list.files('content', '[.]Rmd$', recursive = TRUE, full.names = TRUE)
 if (length(rmds)) {
-  files = cbind(rmds, gsub('.Rmd$', '.md', rmds))
+  files = cbind(rmds, gsub('.Rmd$', '.md', rmds), gsub('.Rmd$', '.html', rmds))
   for (i in seq_len(nrow(files))) {
     build_one(unlist(files[i, ]))
   }

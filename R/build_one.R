@@ -32,6 +32,7 @@ error = FALSE, fig.width = 6, fig.height = 5, dpi = 96, tidy = TRUE)
       new_rmd = content_rmd
     }
     new_rmd = append(new_rmd, "from_Rmd: yes", x2$yaml_range[2] - 1)
+    new_rmd = append(new_rmd, "to_html: yes", x2$yaml_range[2])
     new_rmd_file = gsub("[.]md$", "2.Rmd", a[2])
     blogdown:::writeUTF8(new_rmd, new_rmd_file)
     blogdown:::render_page(new_rmd_file) # will produce a html file with the same name
@@ -41,9 +42,8 @@ error = FALSE, fig.width = 6, fig.height = 5, dpi = 96, tidy = TRUE)
                 blogdown:::split_yaml_body(blogdown:::readUTF8(new_rmd_file))$yaml,
                 0)
     unlink(c(new_rmd_file, new_rmd_html))
-    a2.html = gsub("[.]md$", ".html", a[2])
-    blogdown:::writeUTF8(x3, a2.html)
-    Sys.chmod(a2.html, '0444')  # read-only (should not edit)
+    blogdown:::writeUTF8(x3, a[3])
+    Sys.chmod(a[3], '0444')  # read-only (should not edit)
   } else {# normal rmd files without citations or cross-referneces
     knitr::opts_chunk$set(
       fig.path   = sprintf('figures/%s/', d),
