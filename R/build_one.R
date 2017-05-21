@@ -43,7 +43,7 @@ error = FALSE, fig.width = 6, fig.height = 5, dpi = 96, tidy = TRUE)
     unlink(c(new_rmd_file, new_rmd_html))
     a2.html = gsub("[.]md$", ".html", a[2])
     blogdown:::writeUTF8(x3, a2.html)
-    # Sys.chmod(a2.html, '0444')  # read-only (should not edit)
+    Sys.chmod(a2.html, '0444')  # read-only (should not edit)
   } else {# normal rmd files without citations or cross-referneces
     knitr::opts_chunk$set(
       fig.path   = sprintf('figures/%s/', d),
