@@ -7,7 +7,7 @@ csl: https://raw.githubusercontent.com/citation-style-language/styles/master/glo
 bibliography: ref.bib
 ---
 
-Goal: I want to write academic style blog posts with: citations, cross-refernece of tables and figures, and I want to manage figure path by myself. The default setting of blogdown can handle citations and cross-references pretty well, but the figures are nested too deep. I just want to put all figures under `static/figures`.
+Goal: I want to write academic style blog posts with: citations, cross-reference of tables and figures, and I want to manage figure path by myself. The default setting of blogdown can handle citations and cross-references pretty well thanks to [Yihui](https://yihui.name)'s awesome work on [`bookdown`](https://github.com/rstudio/bookdown) and [`blogdown`](https://github.com/rstudio/blogdown) packages, but the figures are nested too deep. I just want to put all figures under `static/figures`.
 
 After a bit of digging, [I managed to do this](https://github.com/rbind/daijiang/blob/master/R/build_one.R). The main trick is to add a `knitr` setup chunk to the Rmd file, and then parse it with `blogdown::render_page()`, based on [Yihui's set up](https://github.com/rbind/yihui/tree/master/R). If a post does not have any figures, it will pass the first step and go directly with `blogdown::render_page()`. I did not look through all functions available from the `blogdown` package. But I am sure there must be a better way to do this. Anyway, I get what I want at this moment.
 
@@ -41,7 +41,7 @@ plot(pressure)
 
 ## Table and cross-reference
 
-You can also print tablesand cross-refer it with `\@ref(tab:table-label)`, for example Table \@ref(tab:pressure2):
+You can also print tables and cross-refer it with `\@ref(tab:table-label)`, for example Table \@ref(tab:pressure2):
 
 ```{r pressure2}
 knitr::kable(head(pressure), caption = "Table legend.")

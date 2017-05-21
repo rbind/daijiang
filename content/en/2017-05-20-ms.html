@@ -12,7 +12,7 @@ from_Rmd: yes
 
 <!-- BLOGDOWN-BODY-BEFORE -->
 <!-- /BLOGDOWN-BODY-BEFORE -->
-<p>Goal: I want to write academic style blog posts with: citations, cross-refernece of tables and figures, and I want to manage figure path by myself. The default setting of blogdown can handle citations and cross-references pretty well, but the figures are nested too deep. I just want to put all figures under <code>static/figures</code>.</p>
+<p>Goal: I want to write academic style blog posts with: citations, cross-reference of tables and figures, and I want to manage figure path by myself. The default setting of blogdown can handle citations and cross-references pretty well thanks to <a href="https://yihui.name">Yihui</a>’s awesome work on <a href="https://github.com/rstudio/bookdown"><code>bookdown</code></a> and <a href="https://github.com/rstudio/blogdown"><code>blogdown</code></a> packages, but the figures are nested too deep. I just want to put all figures under <code>static/figures</code>.</p>
 <p>After a bit of digging, <a href="https://github.com/rbind/daijiang/blob/master/R/build_one.R">I managed to do this</a>. The main trick is to add a <code>knitr</code> setup chunk to the Rmd file, and then parse it with <code>blogdown::render_page()</code>, based on <a href="https://github.com/rbind/yihui/tree/master/R">Yihui’s set up</a>. If a post does not have any figures, it will pass the first step and go directly with <code>blogdown::render_page()</code>. I did not look through all functions available from the <code>blogdown</code> package. But I am sure there must be a better way to do this. Anyway, I get what I want at this moment.</p>
 <hr />
 <div id="citations" class="section level2">
@@ -49,7 +49,7 @@ Figure 1: Here is figure caption.
 </div>
 <div id="table-and-cross-reference" class="section level2">
 <h2>Table and cross-reference</h2>
-<p>You can also print tablesand cross-refer it with <code>\@ref(tab:table-label)</code>, for example Table <a href="#tab:pressure2">1</a>:</p>
+<p>You can also print tables and cross-refer it with <code>\@ref(tab:table-label)</code>, for example Table <a href="#tab:pressure2">1</a>:</p>
 <pre class="r"><code>knitr::kable(head(pressure), caption = &quot;Table legend.&quot;)</code></pre>
 <table>
 <caption><span id="tab:pressure2">Table 1: </span>Table legend.</caption>
