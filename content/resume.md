@@ -54,13 +54,13 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 <li> <b>Daijiang Li</b>, Shaolin Peng, Baoming Chen. (2013). The effects of leaf litter evenness on decomposition depend on which plant functional group is dominant. <u><i>Plant and Soil</i></u>. 365:1-2, 255-266. <a target="_blank" href="/pdf/D_Li_2012_plantsoil.pdf"><i class="fa fa-download"></i></a> </li>
 
-<li> Baoming Chen, Shaolin Peng, Carla M. D'Antonio, <b>Daijiang Li</b>, Wentao Ren. (2013). Non-Addiitive Effects on Decomposition from Mixing Litter of the Invasive <i>Mikania micrantha</i> H.B.K. with Native Plants. <u><i>PLoS ONE</i></u>. 8(6): e66289. <a target="_blank" href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0066289"><i class="fa fa-unlock"></i></a> </li>
+<li> Baoming Chen, Shaolin Peng, Carla M. D'Antonio, <b>Daijiang Li</b>, Wentao Ren. (2013). Non-Addiitive Effects on Decomposition from Mixing Litter of the Invasive <i>Mikania micrantha</i> H.B.K. with Native Plants. <u><i>PLoS ONE</i></u>. 8(6): e66289. <a target="_blank" href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0066289"><i class="ai ai-open-access"></i></a> </li>
 
 <li> Bosun Wang, Shaolin Peng, <b>Daijiang Li</b>, Ting Zhou. (2009). Research progress on <i>Merremia boisiana</i>. <u><i>Chinese Journal of Ecology</i></u>. 28 (11), 2360-2365 </li>
 
 </ol>
 
-[*Google Scholar*](https://scholar.google.com/citations?user=0I2wXJQAAAAJ&hl=en)
+<a target="_blank" href="https://scholar.google.com/citations?user=0I2wXJQAAAAJ&hl=en"><i class="ai ai-google-scholar ai-2x" style="padding-top:3px;"></i>Google Scholar</a>
 
 ## Selected Awards and Grants
 

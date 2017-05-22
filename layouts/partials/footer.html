@@ -4,10 +4,10 @@
           <li><a href="{{ .RSSLink | relURL }}" type="application/rss+xml" target="_blank"><i class="fa fa-rss" aria-hidden="true" title="RSS feed"></i><span class="sr-only">RSS feed</span></a></li>
           {{ end }}
           <li><a href="mailto:daijianglee@gmail.com"><i class="fa fa-envelope" aria-hidden="true" title="Mail to Daijiang"></i><span class="sr-only">Email</span></a></li>
+          <li><a href="https://scholar.google.com/citations?user=0I2wXJQAAAAJ&hl=en"><i class="ai ai-google-scholar" aria-hidden="true" title="Google Scholar"></i><span class="sr-only">Google Scholar</span></a></li>
           {{ with .Site.Params.social }}
           <li><a href="https://github.com/{{ .github }}"><i class="fa fa-github" aria-hidden="true" title="Github"></i><span class="sr-only">Github</span></a></li>
           <li><a href="https://twitter.com/{{ .twitter }}"><i class="fa fa-twitter" aria-hidden="true" title="Twitter"></i><span class="sr-only">Twitter</span></a></li>
-          <li><a href="http://weibo.com/{{ .weibo_url }}"><i class="fa fa-weibo" aria-hidden="true" title="新浪微博"></i><span class="sr-only">新浪微博</span></a></li>
           {{ end }}
           <li><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><i class="fa fa-cc" aria-hidden="true" title="Attribution-NonCommercial-ShareAlike 4.0 International"></i><span class="sr-only">Attribution-NonCommercial-ShareAlike 4.0 International</span></a></li>
           <li><a href="/"><i class="fa fa-copyright" aria-hidden="true" title="Copyright"></i> 2011 - {{ dateFormat "2006" .Site.LastChange }}</a></li>
