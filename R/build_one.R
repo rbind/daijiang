@@ -16,10 +16,11 @@ base.dir = normalizePath('../../static/', mustWork = TRUE),
 base.url = '/', width = 60)
 knitr::opts_chunk$set(
 fig.path = 'figures/%s/',
+cache.path = 'blogdown/cache/%s/',
 error = FALSE, fig.width = 6, fig.height = 5, dpi = 96, tidy = TRUE)
 ```", d)
   content_rmd = blogdown:::readUTF8(a[1])
-  x2 = blogdown:::split_yaml_body(blogdown:::readUTF8(a[1]))
+  x2 = blogdown:::split_yaml_body(content_rmd)
 
   if(any(grep(pattern = "bibliography:.*bib", x2$yaml)) ||
      any(grep(pattern = "\\\\@ref[(]", x2$body))) {# has citations or cross-references
