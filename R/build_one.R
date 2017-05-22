@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 fig.path = 'figures/%s/',
 cache.path = 'blogdown/cache/%s/',
 error = FALSE, fig.width = 6, fig.height = 5, dpi = 96, tidy = TRUE)
-```", d)
+```", d, d)
   content_rmd = blogdown:::readUTF8(a[1])
   x2 = blogdown:::split_yaml_body(content_rmd)
 
