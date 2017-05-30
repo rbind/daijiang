@@ -2,6 +2,7 @@
 title: Notes of Data-driven Ecological Synthesis
 date: '2017-05-09'
 slug: notes-of-data-driven-ecological-synthesis
+show_toc: no
 ---
 
 I went to the excellent data-driven ecological synthesis summer school at the [Station de Biologie des Laurentides (SBL)](http://www.sbl.umontreal.ca/index.html) of the Université de Montréal, organized and taught by Timothée Poisot and Dominique Gravel. The station is one of the best research station I have ever been: great view, nice staffs, and excellent food! The teachers are very approachable and very knowledgeable. Classmates are very nice to each other and we had lots of fun together. For example:
