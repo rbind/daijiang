@@ -43,9 +43,9 @@ GUniFrac(my.sample, my.phylo, alpha = c(0.5, 1))
 ## Phylogenetic Sorenson's index
 
 The unifrac index above is a dissimilarity index while this one is a similarity one. They are highly correlated (monotonic) with each other.
-`\[
-PhyloSor=2\times\frac{bl_{AB}}{bl_{A}+bl_{B}}
-\]`
+
+$$PhyloSor=2\times\frac{bl_{AB}}{bl_{A}+bl_{B}}$$
+
 where `\(bl_{AB}\)` is the Faith's index of the species shared between
 two communities A and B, while `\(bl_{A}\)` and `\(bl_{B}\)` are the Faith's
 index for the two communities.
@@ -72,9 +72,8 @@ comdist(my.sample, cophenetic(my.phylo), abundance.weighted = F)
 
 ## Nearest neighbor measures
 
-`\[
-D_{nn}=\frac{\sum_{i}^{n_{k_{1}}}min\delta_{ik_{2}}+\sum_{j}^{n_{k_{2}}}min\delta_{jk_{1}}}{n_{k_{1}}+n_{k_{2}}}
-\]`
+$$D_{nn}=\frac{\sum_{i}^{n_{k_{1}}}min\delta_{ik_{2}}+\sum_{j}^{n_{k_{2}}}min\delta_{jk_{1}}}{n_{k_{1}}+n_{k_{2}}}$$
+
 where `\(min\delta_{ik_{2}}\)` is the minimum phylogenetic distance between
 species *i* in community `\(k_{1}\)` and all species in community `\(k_{2}\)`.
 Similar for `\(min\delta_{jk_{1}}\)`. *n* is the number of species in the
