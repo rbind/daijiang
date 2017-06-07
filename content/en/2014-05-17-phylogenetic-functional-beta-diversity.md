@@ -15,9 +15,11 @@ The following metrics have been usually used on phylogenetic trees, but could po
 ## UniFrac
 
 UniFrac is the first tree-based metric for phylogenetic and functional beta diversity. It seeks to quantify the unique fraction of the phylogeny contained in each of the two communities being compared.
+
 `\[
 UniFrac_{A,B}=\frac{PD_{A\cup B}-PD_{A\cap B}}{PD_{A\cup B}}
 \]`
+
 The unweighted UniFrac can be calculated by `unifrac()` in the `picante` package.
 
 ```r
@@ -44,7 +46,7 @@ GUniFrac(my.sample, my.phylo, alpha = c(0.5, 1))
 
 The unifrac index above is a dissimilarity index while this one is a similarity one. They are highly correlated (monotonic) with each other.
 
-$$PhyloSor=2\times\frac{bl_{AB}}{bl_{A}+bl_{B}}$$
+`$$PhyloSor=2\times\frac{bl_{AB}}{bl_{A}+bl_{B}}$$`
 
 where `\(bl_{AB}\)` is the Faith's index of the species shared between
 two communities A and B, while `\(bl_{A}\)` and `\(bl_{B}\)` are the Faith's
@@ -72,7 +74,7 @@ comdist(my.sample, cophenetic(my.phylo), abundance.weighted = F)
 
 ## Nearest neighbor measures
 
-$$D_{nn}=\frac{\sum_{i}^{n_{k_{1}}}min\delta_{ik_{2}}+\sum_{j}^{n_{k_{2}}}min\delta_{jk_{1}}}{n_{k_{1}}+n_{k_{2}}}$$
+`$$D_{nn}=\frac{\sum_{i}^{n_{k_{1}}}min\delta_{ik_{2}}+\sum_{j}^{n_{k_{2}}}min\delta_{jk_{1}}}{n_{k_{1}}+n_{k_{2}}}$$`
 
 where `\(min\delta_{ik_{2}}\)` is the minimum phylogenetic distance between
 species *i* in community `\(k_{1}\)` and all species in community `\(k_{2}\)`.
