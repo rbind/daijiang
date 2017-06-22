@@ -15,7 +15,7 @@ After a little bit Googling, I found [this post](http://thecoatlessprofessor.com
 1. Installed `xcode` from Apple Store (a simplified version may be enough)
 2. Installed `llvm` via `brew install llvm`
 3. Downloaded and installed the `gfortran` binary installer provided in the above blog post
-4. Downloaded and extracted `clang` to `/usr/local/clang` (overwrite it if already exists)
+4. Downloaded and extracted `clang` to `/usr/local/clang` (overwrite it if already exists, `sudo cp -r ~/Downloads/usr/local/clang4 /usr/local/clang4`)
 5. In terminal
 
    ```bash
