@@ -164,3 +164,4 @@ You can define a shortcut for some long cryptic commands by using alias: (NO spa
 
 + [Software carpentry](http://software-carpentry.org/v5/novice/shell/)
 + [Software carpentry UW-Madison](https://github.com/UW-Madison-ACI/boot-camps/blob/2014-01-uwmadison/shell/Readme.md)
++ [A good free book about unix commands](http://seankross.com/the-unix-workbench/), especially Chapter 5 about Bash programming
