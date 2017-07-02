@@ -3,6 +3,7 @@ title:  Linux shell commands
 date: '2014-03-02'
 slug: Unix-commands
 ---
+
 I tried a couple of times to switch from Windows to Ubuntu, but failed, mainly because that I do not have enough time and patience
 to teach myself. 
 

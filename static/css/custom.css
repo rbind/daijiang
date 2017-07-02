@@ -130,6 +130,10 @@ table {
   border-bottom: 1px solid #e8e8e8;
 }
 
+tbody tr:nth-child(odd) {
+   background-color: #edeeef;
+}
+
 table thead th {
   border-bottom: 1px solid #e8e8e8;
 }
