@@ -164,13 +164,13 @@ Pairwise distance measures average across all species pairs and thus a lot of de
 ### mean nearest taxon distance (mntd)
 
 `\[
-mpd=\frac{\sum_{i}^{n}min\delta_{i,j}}{n},i\neq j
+mntd=\frac{\sum_{i}^{n}min\delta_{i,j}}{n},i\neq j
 \]`
 `\(min\delta_{i,j}\)` is the minimum phylogenetic distance between species *i* and all other species in the community. 
 
 We can also calculate the abundance weighted version:
 `\[
-mpd.a=\frac{\sum_{i}^{n}min\delta_{i,j}f_{i}}{n},i\neq j
+mntd.a=\frac{\sum_{i}^{n}min\delta_{i,j}f_{i}}{n},i\neq j
 \]`
 
 ```r
