@@ -6,7 +6,7 @@ disable_highlight: true
 slug: "about"
 ---
 
-I am a postdoc researcher in the Department of Wildlife Ecology and Conservation at the University of FLorida, working with [Ben Baiser](http://www.wec.ufl.edu/faculty/baiser).
+I am a postdoc researcher in the Department of Wildlife Ecology and Conservation at the University of Florida, working with [Ben Baiser](http://www.wec.ufl.edu/faculty/baiser).
 
 I am broadly interested in community ecology, global change ecology, and the causes and consequences of biodiversity. I am getting more interested in ecological modelling and computational ecology recently.
 
