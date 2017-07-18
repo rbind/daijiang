@@ -64,8 +64,8 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 ## Selected Awards and Grants
 
-- 2016, Ton Damman Award for Best Oral Presentation, $500. Ecological Society of America Vegetation Section 
-- 2015, Early Career Centennial Mentoring Program (10 early career ecologists total), $200. Ecological Society of America
+- 2016, Ton Damman Award for Best Oral Presentation, Ecological Society of America Vegetation Section 
+- 2015, Early Career Centennial Mentoring Program (10 early career ecologists total), Ecological Society of America
 - 2015, Student Conference Presentation Grant, $600. Graduate school, University of Wisconsin--Madison
 - 2015, The Raper Conference Travel Support , $400. Department of Botany, University of Wisconsin-Madison
 - 2014, The Flora Aeterna Research Grant, $1,500. Department of Botany, University of Wisconsin-Madison
@@ -82,17 +82,22 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 ## Presentations and Posters
 
+- **Daijiang Li**, 2016 September, Long-term Community Dynamics of Pine Barrens in Central WI: Species, Functional Traits, and Phylogeny. *Wildlife Ecology and Conservation, University of Florida*, Gainesville, Florida. (Invited Oral presentation)
+- **Daijiang Li**, 2016 March, Long-term Community Dynamics of Pine Barrens in Central WI: Species, Functional Traits, and Phylogeny. *Department of Botany, University of Wisconsin--Madison*, Madison, Wisconsin. (Oral presentation)
+- Jeremy Ash, **Daijiang Li**, Sarah Johnson, David Rogers, and Donald Waller, 2015 December, Predicting species-environment relationships with functional traits for the understory flora of Wisconsin. *American Geophysical Union*, San Francisco, California. (Post)
+- **Daijiang Li**, Anthony Ives, Ricardo Kriebel, Ken Cameron, Ken Sytsma, Thomas Givnish, and Donald Waller, 2015 August, Pine barrens in central Wisconsin still phylogentically clustered after 54 years of fire suppression. *100th Ecological Society of America Annual Meeting*, Baltimore, Maryland. (Oral presentation; *won the best oral presentation award from the Vegetation section of ESA*)
 - **Daijiang Li**, Donald Waller, 2014 August, Increases in native, not exotic, species plus succession promote biotic homogenization in the sand plain plant communities of central Wisconsin. *99th Ecological Society of America Annual Meeting*, Sacramento, California, USA. (Oral presentation).
 - **Daijiang Li**, Donald Waller, 2014 March, Long-term dynamics in pine barrens of central Wisconsin. *Wisconsin Ecology Annual Spring Symposium*, Madison, Wisconsin. (Oral presentation).
 
 ## Professional Experience
 
+- 2017 May, Data-driven ecological synthesis summer school, Department of Biology, Université de Montréal
 - 2014 April 15th, Structure Equation Modeling workshop taught by James Grace.
 - 2013 Oct. 6-11, volunteer of the fifth world conference on ecological restoration.
 
-
 ## Teaching
 
+- 2017 May, Instructor training, Software Carpentry and Data Carpentry, University of Florida
 - 2014 August 25-26, Instructor, Software Carpentry Bootcamp, UW-Madison.
 - 2013 Fall, Teaching Assistant, Vegetation of Wisconsin (Bot 455).
 - 2013 Spring, Teaching Assistant, Introductory Biology (Bio 152).
