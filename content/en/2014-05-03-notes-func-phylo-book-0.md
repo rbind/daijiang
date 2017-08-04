@@ -18,7 +18,7 @@ lapply(c("picante", "phylobase", "phylotools", "ecodist", "FD", "adephylo",
 ```
 
 
-##Data reading
+## Data reading
 
 Get data at [here](http://link.springer.com/chapter/10.1007%2F978-1-4614-9542-0_2).
 
