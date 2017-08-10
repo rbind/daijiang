@@ -15,8 +15,6 @@ and
 
 Thanks all for a great week.
 
-{{< tweet 861268696135815169 >}}
-
 ********************
 
 Here is my very brief note during this one-week class.
