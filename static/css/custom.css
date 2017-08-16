@@ -153,6 +153,29 @@ pre .nohighlight {
   font-size: .9em;
 }
 
+.archive {
+  line-height: 1em;
+}
+
+.archive-title {
+  font-size: 32px;
+  margin-top: 40px;
+}
+
+.archive-item-date {
+  color: #ccc;
+  display: block;
+  font-size: 19px;
+  text-align: left;
+  float: left;
+  width: 100px;
+}
+
+.archive-item-link {
+  margin-left: .8em;
+  text-align: left;
+}
+
 @media (min-width: 600px) {
   .archive-item-link {
     text-overflow: ellipsis;
