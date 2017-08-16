@@ -164,7 +164,7 @@ pre .nohighlight {
 }
 
 .archive-item-date {
-  color: #ccc;
+  color: #999999;
   display: block;
   font-size: 19px;
   text-align: left;
@@ -183,11 +183,11 @@ pre .nohighlight {
   }
 
   .archive-title {
-    font-size: 30px;
+    font-size: 21px;
   }
 
   .archive-item-date {
-    font-size: 19px;
+    font-size: 15px;
     text-align: left;
     float: left;
   }
@@ -197,8 +197,7 @@ pre .nohighlight {
     max-width: calc(100% - 120px);
     white-space: nowrap;
     overflow: hidden;
-    margin-left: .1em;
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
