@@ -187,7 +187,7 @@ pre .nohighlight {
     max-width: calc(100% - 100px);
     white-space: nowrap;
     overflow: hidden;
-    margin-left: .8em;
+    margin-left: .1em;
     text-align: left;
   }
 }
