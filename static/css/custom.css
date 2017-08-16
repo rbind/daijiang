@@ -177,10 +177,17 @@ pre .nohighlight {
 }
 
 @media (min-width: 600px) {
+  .archive-item-date {
+    text-align: left;
+    float: left;
+  }
+
   .archive-item-link {
     text-overflow: ellipsis;
     max-width: calc(100% - 100px);
     white-space: nowrap;
     overflow: hidden;
+    margin-left: .8em;
+    text-align: left;
   }
 }
