@@ -95,6 +95,7 @@ code {
 .article-content {
   hyphens: auto;
 }
+
 code {
   hyphens: none;
 }
@@ -175,3 +176,29 @@ pre .nohighlight {
   margin-left: .8em;
   text-align: left;
 }
+
+@media (min-width: 600px) {
+  .archive {
+    text-align: left;
+  }
+
+  .archive-title {
+    font-size: 30px;
+  }
+
+  .archive-item-date {
+    font-size: 19px;
+    text-align: left;
+    float: left;
+  }
+
+  .archive-item-link {
+    text-overflow: ellipsis;
+    max-width: calc(100% - 120px);
+    white-space: nowrap;
+    overflow: hidden;
+    margin-left: .1em;
+    font-size: 20px;
+  }
+}
+
