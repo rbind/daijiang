@@ -188,8 +188,8 @@ pre .nohighlight {
   }
 
   .archive-item-date {
-    text-align: right;
-    float: right;
+    text-align: left;
+    float: left;
     font-size: 13px;
     max-width: 15%;
   }
