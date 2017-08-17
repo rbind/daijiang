@@ -181,16 +181,22 @@ pre .nohighlight {
   .archive {
     text-align: left;
   }
+  
+  .archive-title {
+    font-size: 19px;
+  }
 
   .archive-item-date {
     text-align: left;
     float: left;
+    font-size: 13px;
   }
 
   .archive-item-link {
     text-overflow: ellipsis;
     white-space: nowrap;
-    overflow: hidden;
+    overflow: auto;
+    font-size: 14px;
   }
 }
 
