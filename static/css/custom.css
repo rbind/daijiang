@@ -177,8 +177,9 @@ pre .nohighlight {
   text-align: left;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
   .archive {
+    line-height: 0.8em;
     text-align: left;
   }
   
@@ -196,8 +197,8 @@ pre .nohighlight {
   .archive-item-link {
     text-overflow: ellipsis;
     white-space: nowrap;
-    overflow: auto;
-    font-size: 14px;
+    overflow: hidden;
+    font-size: 15px;
   }
 }
 
