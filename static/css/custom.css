@@ -190,6 +190,7 @@ pre .nohighlight {
     text-align: left;
     float: left;
     font-size: 13px;
+    max-width: 15%;
   }
 
   .archive-item-link {
