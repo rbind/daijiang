@@ -196,6 +196,8 @@ pre .nohighlight {
 
   .archive-item-link {
     text-overflow: ellipsis;
+    max-width: 83%;
+    white-space: nowrap;
     overflow: hidden;
     font-size: 15px;
   }
