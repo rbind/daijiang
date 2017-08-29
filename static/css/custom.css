@@ -33,6 +33,12 @@
   transform: scale(1.1);
 }
 
+blockquote {
+  margin: 1em 0;
+  padding: 0 2em;
+  border-left: 5px solid #ddd;
+}
+
 img {
   max-width:100%;
   height:auto;
@@ -136,7 +142,7 @@ table {
   border-bottom: 1px solid #e8e8e8;
 }
 
-tbody tr:nth-child(odd) {
+tbody tr:nth-child(even) {
    background-color: #edeeef;
 }
 
@@ -153,6 +159,15 @@ pre .nohighlight {
   display: block;
   padding: .5em;
   overflow-x: auto;
+}
+
+pre code {
+  display: block;
+  border: 1px solid #ddd;
+  box-shadow: 3px 3px 3px #eee;
+  padding: 1em;
+  overflow-x: auto;
+  line-height: 1.75;
 }
 
 .footnotes {
@@ -187,7 +202,7 @@ pre .nohighlight {
     line-height: 0.8em;
     text-align: left;
   }
-  
+
   .archive-title {
     font-size: 19px;
   }
