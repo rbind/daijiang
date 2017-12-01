@@ -11,6 +11,12 @@ I do not use these functions often, but they can be really useful for some tasks
   + `cut_width()`, `cut_interval()`, `cut_number()` to convert a continous variable to groups.
   + ggplot by default will drop categories without any value, to avoid this, use `... + geom_bar() + scale_x_discrete(drop = FALSE)`.
   + reorder factor according to an numerical variable: `ggplot(data, aes(num_var, forcats::fct_reorder(factor_var, num_var))) + geom_point()`.
+  + remove legend: `... + guides(fill = FALSE)` or `... + guides(color = FALSE)`
+  + change legend rows: `... + guides(fill = guide_legend(nrow = 1))`
+  + change legend title: `... + labs(fill = "title")` or `... + labs(color = "title")` or `... + scale_fill_xxx(name = "title")`
+  + change axes tick labels: e.g. `... + scale_x_log10(labels = scales::dollar, labels = scales::wrap_format(10), breaks = ...)`. Package `scales` can be useful.
+  + draw maps: `... + geom_polygon(aes(group = group)) + coord_map(projection = "albers", lat0 = 39, lat1 = 45)`
+  + when write a function for plotting, `aes_string()` can be useful.
 - `tidyr` package:
   + `complete()` complete a data frame with missing combinations of data. Turns implicit missing values into explicit missing values.
   + `fill()` Fills missing values in using the previous entry. Useful if repeated values are omitted. Last observation carried forward.
