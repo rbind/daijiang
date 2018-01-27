@@ -33,6 +33,12 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 <ol reversed>
 
+<li> <b>Daijiang Li</b>, William B. Monahan, and Benjamin Baiser. 2018. Species richness and phylogenetic diversity of native and non-native species respond differently to area and environmental factors. <u><i>Diversity and Distributions</i></u>. In press.
+ </li>
+ 
+<li> Emily Sessa, Sally Chambers, <b>Daijiang Li</b>, Lauren Trotta, Lorena Endara, Gordon Burleigh, and Benjamin Baiser. 2018. Community assembly of the ferns of Florida. <u><i>American Journal of Botany</i></u>. In press. 
+</li>
+ 
 <li> Michael P. Perring, ..., <b>Daijiang Li</b>, ..., Kris Verheyen. 2018. Environmental change effects on plant community trajectories depend upon management legacies. <u><i>Global Change Biology</i></u>. In press. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/gcb.14030/abstract"><i class="fa fa-download"></i></a>
 </li>
 
