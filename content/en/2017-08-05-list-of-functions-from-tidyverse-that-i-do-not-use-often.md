@@ -17,6 +17,7 @@ I do not use these functions often, but they can be really useful for some tasks
   + change axes tick labels: e.g. `... + scale_x_log10(labels = scales::dollar, labels = scales::wrap_format(10), breaks = ...)`. Package `scales` can be useful.
   + draw maps: `... + geom_polygon(aes(group = group)) + coord_map(projection = "albers", lat0 = 39, lat1 = 45)`
   + when write a function for plotting, `aes_string()` can be useful.
+  + `scale_x_continuous(expand = c(.1, .1))` to expand the plot to avoid cutoff of labels.
 - `tidyr` package:
   + `complete()` complete a data frame with missing combinations of data. Turns implicit missing values into explicit missing values.
   + `fill()` Fills missing values in using the previous entry. Useful if repeated values are omitted. Last observation carried forward.
