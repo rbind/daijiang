@@ -33,6 +33,9 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 <ol reversed>
 
+<li> <b>Daijiang Li</b>, Timothée Poisot, Donald Waller, and Benjamin Baiser. 2018. Homogenization of species composition and species association networks are decoupled. <u><i>bioRxiv</i></u>. <a target="_blank" href="https://www.biorxiv.org/content/early/2018/02/14/265264"><i class="fa fa-download"></i></a>
+ </li>
+
 <li> <b>Daijiang Li</b>, William B. Monahan, and Benjamin Baiser. 2018. Species richness and phylogenetic diversity of native and non-native species respond differently to area and environmental factors. <u><i>Diversity and Distributions</i></u>. In press.
  </li>
  
@@ -128,8 +131,11 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 ## Professional Service and Outreach
 
 - Manuscript reviewer for ([certified review record](https://publons.com/a/719613/)): 
+  + *Ecography*
+  + *Ecological Applications*
   + *Ecology Letters*
   + *Global Ecology and Biogeography*
+  + *Ibis*
   + *Journal of Applied Ecology*
   + *Journal of Ecology*
   + *Nature Scientific Reports*
