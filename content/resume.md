@@ -36,7 +36,7 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 <li> <b>Daijiang Li</b>, Timothée Poisot, Donald Waller, and Benjamin Baiser. 2018. Homogenization of species composition and species association networks are decoupled. <u><i>bioRxiv</i></u>. <a target="_blank" href="https://www.biorxiv.org/content/early/2018/02/14/265264"><i class="fa fa-download"></i></a>
  </li>
 
-<li> <b>Daijiang Li</b>, William B. Monahan, and Benjamin Baiser. 2018. Species richness and phylogenetic diversity of native and non-native species respond differently to area and environmental factors. <u><i>Diversity and Distributions</i></u>. In press. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/ddi.12731/abstract"><i class="fa fa-download"></i></a>
+<li> <b>Daijiang Li</b>, William B. Monahan, and Benjamin Baiser. 2018. Species richness and phylogenetic diversity of native and non-native species respond differently to area and environmental factors. <u><i>Diversity and Distributions</i></u>. In press. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/ddi.12731/abstract"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/daijiang/rnps"><i class="fa fa-github"></i></a>
  </li>
  
 <li> Emily Sessa, Sally Chambers, <b>Daijiang Li</b>, Lauren Trotta, Lorena Endara, Gordon Burleigh, and Benjamin Baiser. 2018. Community assembly of the ferns of Florida. <u><i>American Journal of Botany</i></u>. In press. 
