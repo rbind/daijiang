@@ -42,7 +42,7 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 <li> Emily Sessa, Sally Chambers, <b>Daijiang Li</b>, Lauren Trotta, Lorena Endara, Gordon Burleigh, and Benjamin Baiser. 2018. Community assembly of the ferns of Florida. <u><i>American Journal of Botany</i></u>. In press. 
 </li>
  
-<li> Michael P. Perring, ..., <b>Daijiang Li</b>, ..., Kris Verheyen. 2018. Environmental change effects on plant community trajectories depend upon management legacies. <u><i>Global Change Biology</i></u>. In press. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/gcb.14030/abstract"><i class="fa fa-download"></i></a>
+<li> Michael P. Perring, ..., <b>Daijiang Li</b>, ..., Kris Verheyen. 2018. Environmental change effects on plant community trajectories depend upon management legacies. <u><i>Global Change Biology</i></u>. 24:1722–1740. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/gcb.14030/abstract"><i class="fa fa-download"></i></a>
 </li>
 
  <li> <b>Daijiang Li</b>, Julie L. Lockwood, and Benjamin Baiser. Taxonomic and phylogenetic homogenization across US national parks - The role of non-native species. Book chapter in <i>From Biocultural Homogenization to Biocultural Conservation</i>. Edit by Rozzi et al. In press.
