@@ -6,7 +6,7 @@ slug: updating-website-with-hugo-and-blogdown
 
 My personal website has been full of weeds since I did not update it for a really long time. As I am trying to put together a package to apply for jobs, I finally get some time to update my website. The previous version of my website was build with `Jekyll`. However, it is a bit slow and whenever I want to creat a new post, I need to type the yaml head. (Yes, you can set up a snippet, but...). Finally, [Yihui](https://yihui.name) wrote an awesome R package [blogdown](https://github.com/rstudio/blogdown) to creat personal website with `Hugo` and `Rstudio`, which makes it so much easier to update your website and to publish new blog posts. Here is a post to briefly record how I have done it. When it is not clear, the best way is to look at source code [here](https://github.com/rbind/yihui.name) or [here](https://github.com/daijiang/website_hugo_source).
 
-## Install hogo and creat your site
+## Install Hugo and create your site
 
 First, go to the `blogdown` webpage and install it. For Mac users, you may need to install [homebrew](https://brew.sh) first, which you definitely should.
 
