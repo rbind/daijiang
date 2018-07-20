@@ -19,7 +19,7 @@ fig.path = 'figures/%s/',
 cache.path = 'blogdown/cache/%s/',
 error = FALSE, fig.width = 6, fig.height = 5, dpi = 96, tidy = TRUE)
 ```", d, d)
-  content_rmd = blogdown:::readUTF8(a[1])
+  content_rmd = xfun::read_utf8(a[1])
   x2 = blogdown:::split_yaml_body(content_rmd)
 
   if(any(grep(pattern = "bibliography:.*bib", x2$yaml)) ||
@@ -35,15 +35,15 @@ error = FALSE, fig.width = 6, fig.height = 5, dpi = 96, tidy = TRUE)
     new_rmd = append(new_rmd, "from_Rmd: yes", x2$yaml_range[2] - 1)
     new_rmd = append(new_rmd, "to_html: yes", x2$yaml_range[2])
     new_rmd_file = gsub("[.]md$", "2.Rmd", a[2])
-    blogdown:::writeUTF8(new_rmd, new_rmd_file)
+    xfun::write_utf8(new_rmd, new_rmd_file)
     blogdown:::render_page(new_rmd_file) # will produce a html file with the same name
     new_rmd_html = gsub("[.]Rmd$", ".html", new_rmd_file) # this is the name
     # add yaml back
-    x3 = append(blogdown:::readUTF8(new_rmd_html),
-                blogdown:::split_yaml_body(blogdown:::readUTF8(new_rmd_file))$yaml,
+    x3 = append(xfun::read_utf8(new_rmd_html),
+                blogdown:::split_yaml_body(xfun::read_utf8(new_rmd_file))$yaml,
                 0)
     unlink(c(new_rmd_file, new_rmd_html))
-    blogdown:::writeUTF8(x3, a[3])
+    xfun::write_utf8(x3, a[3])
     Sys.chmod(a[3], '0444')  # read-only (should not edit)
   } else {# normal rmd files without citations or cross-referneces
     knitr::opts_chunk$set(
@@ -58,9 +58,9 @@ error = FALSE, fig.width = 6, fig.height = 5, dpi = 96, tidy = TRUE)
     knitr::knit(a[1], a[2], quiet = TRUE, encoding = 'UTF-8', envir = .GlobalEnv)
     if (file.exists(a[2])) {
       x = blogdown:::append_yaml(
-        blogdown:::readUTF8(a[2]), list(from_Rmd = TRUE)
+        xfun::read_utf8(a[2]), list(from_Rmd = TRUE)
       )
-      blogdown:::writeUTF8(xaringan:::protect_math(x), a[2])
+      xfun::write_utf8(xaringan:::protect_math(x), a[2])
       Sys.chmod(a[2], '0444')  # read-only (should not edit)
     }
   }
