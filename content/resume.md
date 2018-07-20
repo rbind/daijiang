@@ -34,41 +34,53 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 <ol reversed>
 
 <li> <b>Daijiang Li</b>, Timothée Poisot, Donald Waller, and Benjamin Baiser. 2018. Homogenization of species composition and species association networks are decoupled. <u><i>bioRxiv</i></u>. <a target="_blank" href="https://www.biorxiv.org/content/early/2018/02/14/265264"><i class="fa fa-download"></i></a>
- </li>
-
-<li> <b>Daijiang Li</b>, William B. Monahan, and Benjamin Baiser. 2018. Species richness and phylogenetic diversity of native and non-native species respond differently to area and environmental factors. <u><i>Diversity and Distributions</i></u>. In press. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/ddi.12731/abstract"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/daijiang/rnps"><i class="fa fa-github"></i></a>
- </li>
- 
-<li> Emily Sessa, Sally Chambers, <b>Daijiang Li</b>, Lauren Trotta, Lorena Endara, Gordon Burleigh, and Benjamin Baiser. 2018. Community assembly of the ferns of Florida. <u><i>American Journal of Botany</i></u>. In press. 
-</li>
- 
-<li> Michael P. Perring, ..., <b>Daijiang Li</b>, ..., Kris Verheyen. 2018. Environmental change effects on plant community trajectories depend upon management legacies. <u><i>Global Change Biology</i></u>. 24:1722–1740. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/gcb.14030/abstract"><i class="fa fa-download"></i></a>
 </li>
 
- <li> <b>Daijiang Li</b>, Julie L. Lockwood, and Benjamin Baiser. Taxonomic and phylogenetic homogenization across US national parks - The role of non-native species. Book chapter in <i>From Biocultural Homogenization to Biocultural Conservation</i>. Edit by Rozzi et al. In press.
- </li>
+<li> <b>Daijiang Li</b>, Lauren Trotta, Hannah Marx, Julie Allen, Miao Sun, Douglas Soltis, Pamela Soltis, Robert Guralnick, and Benjamin Baiser. 2018. For comparing phylogenetic diversity among communities, go ahead and use synthesis phylogenies. <u><i>bioRxiv</i></u>. <a target="_blank" href="https://www.biorxiv.org/content/early/2018/07/16/370353"><i class="fa fa-download"></i></a>
+</li>
+ 
+<li> <b>Daijiang Li</b>, Julie Lockwood, and Benjamin Baiser. Taxonomic and phylogenetic homogenization across US national parks - The role of non-native species. Book chapter in <i>From Biocultural Homogenization to Biocultural Conservation</i>. Edit by Rozzi et al. In press.
+</li>
 
- <li> <b>Daijiang Li</b> and Anthony R. Ives. 2017. The statistical need to include phylogeny in trait-based analyses of community composition. <u><i>Methods in Ecology and Evolution</i></u>. 8: 1192–1199. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12767/abstract"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/daijiang/Trait-Envi-Interactions"><i class="fa fa-github"></i></a>
+<li> Lauren Trotta, Benjamin Baiser, Jennifer Possley, <b>Daijiang Li</b>, James Lange, Sarah Martin, and Emily Sessa. Community phylogeny of the globally imperiled pine rockland ecosystem. <u><i>American Journal of Botany</i></u>. In press.
+</li>
+
+<li> Michael Perring, ..., <b>Daijiang Li</b>, ..., Kris Verheyen. 2018. How nitrogen deposition affects forest understorey plant community change: towards understanding context. <u><i>Environmental Pollution</i></u>. In press.
+</li>
+
+<li> Huixuan Liao, Fangfang Huang, <b>Daijiang Li</b>, Luyao Kang, Baoming Chen, Ting Zhou, Shaolin Peng. 2018. Soil microbes regulate forest succession in a subtropical ecosystem in China: evidence from a mesocosm experiment. <u><i>Plant and Soil</i></u>. In press. <a target="_blank" href="https://link.springer.com/article/10.1007/s11104-018-3733-3"><i class="fa fa-download"></i></a>
+</li>
+
+<li> <b>Daijiang Li</b>, William Monahan, and Benjamin Baiser. 2018. Species richness and phylogenetic diversity of native and non-native species respond differently to area and environmental factors. <u><i>Diversity and Distributions</i></u>. 24: 853-864. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/ddi.12731/abstract"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/daijiang/rnps"><i class="fa fa-github"></i></a>
+</li>
+ 
+<li> Emily Sessa, Sally Chambers, <b>Daijiang Li</b>, Lauren Trotta, Lorena Endara, Gordon Burleigh, and Benjamin Baiser. 2018. Community assembly of the ferns of Florida. <u><i>American Journal of Botany</i></u>. 105(3): 1–16. <a target="_blank" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1073"><i class="fa fa-download"></i></a>
+</li>
+ 
+<li> Michael Perring, ..., <b>Daijiang Li</b>, ..., Kris Verheyen. 2018. Environmental change effects on plant community trajectories depend upon management legacies. <u><i>Global Change Biology</i></u>. 24:1722–1740. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/gcb.14030/abstract"><i class="fa fa-download"></i></a>
+</li>
+
+ <li> <b>Daijiang Li</b> and Anthony Ives. 2017. The statistical need to include phylogeny in trait-based analyses of community composition. <u><i>Methods in Ecology and Evolution</i></u>. 8: 1192–1199. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12767/abstract"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/daijiang/Trait-Envi-Interactions"><i class="fa fa-github"></i></a>
  </li>
 
 <li> <b>Daijiang Li</b> and Donald Waller. 2017. Fire exclusion and climate change interact to affect long-term changes in the functional composition of plant communities. <u><i>Diversity and Distributions</i></u>. 23: 496-506. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/ddi.12542/abstract"><i class="fa fa-download"></i></a> 
- </li>
+</li>
 
-<li> <b>Daijiang Li</b>, Anthony R. Ives, and Donald Waller. 2017. Can functional traits account for phylogenetic signal in community composition? <u><i>New Phytologist</i></u>. 214: 607-618. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/nph.14397/abstract"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/daijiang/New_Phytologist_Appendix"><i class="fa fa-github"></i></a>
- </li>
+<li> <b>Daijiang Li</b>, Anthony Ives, and Donald Waller. 2017. Can functional traits account for phylogenetic signal in community composition? <u><i>New Phytologist</i></u>. 214: 607-618. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/nph.14397/abstract"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/daijiang/New_Phytologist_Appendix"><i class="fa fa-github"></i></a>
+</li>
 
 <li> Kris Verheyen, Pieter De Frenne, ..., <b>Daijiang Li</b>, ..., Markus Bernhardt-Romermann. 2017. Combining biodiversity resurveys across regions to advance global change research. <u><i>Bioscience</i></u>. 67: 73-83. <a target="_blank" href="https://academic.oup.com/bioscience/article/67/1/73/2661833/Combining-Biodiversity-Resurveys-across-Regions-to#50671780"><i class="fa fa-download"></i></a>
- </li>
+</li>
 
 <li> <b>Daijiang Li</b> and Donald Waller. 2016. Long-term shifts in the patterns and underlying processes of plant associations in Wisconsin forests. <u><i>Global Ecology and Biogeography</i></u>. 25: 516–526. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/geb.12432/abstract"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/daijiang/Plant_Co-occurrence_Patterns"><i class="fa fa-github"></i></a>
- </li>
+</li>
 
 <li> <b>Daijiang Li</b> and Donald Waller. 2015. Drivers of observed biotic homogenization in pine barrens of central Wisconsin. <u><i>Ecology</i></u>. 96:1030–1041 <a target="_blank" href="http://www.esajournals.org/doi/abs/10.1890/14-0893.1"><i class="fa fa-download"></i></a><br> &nbsp; Media coverage: <a target="_blank" href="http://news.wisc.edu/23803">University of Wisconsin-Madison News</a>; also printed in <a target="_blank" href="http://www.sciencedaily.com/releases/2015/05/150526123833.htm">Science daily</a>, <a target="_blank" href="http://scienceblog.com/78554/starved-fire-wisconsins-pine-barrens-disappear/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+scienceblogrssfeed+%28ScienceBlog.com%29#Y7pX8tf4VdbXC1gW.97">Science blog</a>, etc.
- </li>
+</li>
 
 <li> <b>Daijiang Li</b>, Shaolin Peng, Baoming Chen. (2013). The effects of leaf litter evenness on decomposition depend on which plant functional group is dominant. <u><i>Plant and Soil</i></u>. 365:1-2, 255-266. <a target="_blank" href="/pdf/D_Li_2012_plantsoil.pdf"><i class="fa fa-download"></i></a> </li>
 
-<li> Baoming Chen, Shaolin Peng, Carla M. D'Antonio, <b>Daijiang Li</b>, Wentao Ren. (2013). Non-Addiitive Effects on Decomposition from Mixing Litter of the Invasive <i>Mikania micrantha</i> H.B.K. with Native Plants. <u><i>PLoS ONE</i></u>. 8(6): e66289. <a target="_blank" href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0066289"><i class="ai ai-open-access"></i></a> </li>
+<li> Baoming Chen, Shaolin Peng, Carla D'Antonio, <b>Daijiang Li</b>, Wentao Ren. (2013). Non-Addiitive Effects on Decomposition from Mixing Litter of the Invasive <i>Mikania micrantha</i> H.B.K. with Native Plants. <u><i>PLoS ONE</i></u>. 8(6): e66289. <a target="_blank" href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0066289"><i class="ai ai-open-access"></i></a> </li>
 
 <li> Bosun Wang, Shaolin Peng, <b>Daijiang Li</b>, Ting Zhou. (2009). Research progress on <i>Merremia boisiana</i>. <u><i>Chinese Journal of Ecology</i></u>. 28 (11), 2360-2365 </li>
 
@@ -130,6 +142,7 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 ## Professional Service and Outreach
 
+- Associate editor: Ecology and Evolution (2018 - present)
 - Manuscript reviewer for ([certified review record](https://publons.com/a/719613/)): 
   + *Ecography*
   + *Ecological Applications*
