@@ -33,10 +33,13 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 <ol reversed>
 
-<li> <b>Daijiang Li</b>, Timothée Poisot, Donald Waller, and Benjamin Baiser. 2018. Homogenization of species composition and species association networks are decoupled. <u><i>bioRxiv</i></u>. <a target="_blank" href="https://www.biorxiv.org/content/early/2018/02/14/265264"><i class="fa fa-download"></i></a>
+<li> <b>Daijiang Li</b>, Lauren Trotta, Hannah Marx, Julie Allen, Miao Sun, Douglas Soltis, Pamela Soltis, Robert Guralnick, and Benjamin Baiser. 2018. For comparing phylogenetic diversity among communities, go ahead and use synthesis phylogenies. <u><i>bioRxiv</i></u>. <a target="_blank" href="https://www.biorxiv.org/content/early/2018/07/16/370353"><i class="fa fa-download"></i></a>
 </li>
 
-<li> <b>Daijiang Li</b>, Lauren Trotta, Hannah Marx, Julie Allen, Miao Sun, Douglas Soltis, Pamela Soltis, Robert Guralnick, and Benjamin Baiser. 2018. For comparing phylogenetic diversity among communities, go ahead and use synthesis phylogenies. <u><i>bioRxiv</i></u>. <a target="_blank" href="https://www.biorxiv.org/content/early/2018/07/16/370353"><i class="fa fa-download"></i></a>
+<li> <b>Daijiang Li</b>, Timothée Poisot, Donald Waller, and Benjamin Baiser. Homogenization of species composition and species association networks are decoupled. <u><i>Global Ecology and Biogeography</i></u>. In press. <a target="_blank" href="https://www.biorxiv.org/content/early/2018/02/14/265264"><i class="fa fa-download"></i></a>
+</li>
+
+<li> Benjamin Baiser and <b>Daijiang Li</b>. Comparing species area relationships for native and exotic species. <u><i>Biological Invasions</i></u>. In press.
 </li>
  
 <li> <b>Daijiang Li</b>, Julie Lockwood, and Benjamin Baiser. Taxonomic and phylogenetic homogenization across US national parks - The role of non-native species. Book chapter in <i>From Biocultural Homogenization to Biocultural Conservation</i>. Edit by Rozzi et al. In press.
