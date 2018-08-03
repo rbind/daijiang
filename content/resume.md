@@ -14,7 +14,7 @@ I am currently a postdoc associate in the [Department of Wildlife Ecology and Co
 
 ## Education
 
-- 2011 -- 2016, Ph.D., Department of Botany (focus on Quantitative Ecology), University of Wisconsin-Madison.  
+- 2011 -- 2016, Ph.D., Department of Botany (focus on Quantitative Ecology), University of Wisconsin-Madison. [Defense video](https://www.youtube.com/watch?v=53PN-ckOYyk)  
 - 2013 -- 2016, M.S., Biometry, Department of Statistics, University of Wisconsin-Madison.  
 - 2008 -- 2011, M.S., School of Life Science, Sun Yat-sen University, China.  
 - 2004 -- 2008, B.A., School of Life Science, Yunnan University, China.
