@@ -36,7 +36,10 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 <li> <b>Daijiang Li</b>, Lauren Trotta, Hannah Marx, Julie Allen, Miao Sun, Douglas Soltis, Pamela Soltis, Robert Guralnick, and Benjamin Baiser. 2018. For comparing phylogenetic diversity among communities, go ahead and use synthesis phylogenies. <u><i>bioRxiv</i></u>. <a target="_blank" href="https://www.biorxiv.org/content/early/2018/07/16/370353"><i class="fa fa-download"></i></a>
 </li>
 
-<li> <b>Daijiang Li</b>, Timothée Poisot, Donald Waller, and Benjamin Baiser. Homogenization of species composition and species association networks are decoupled. <u><i>Global Ecology and Biogeography</i></u>. In press. <a target="_blank" href="https://www.biorxiv.org/content/early/2018/02/14/265264"><i class="fa fa-download"></i></a>
+<li> <b>Daijiang Li</b>, Timothée Poisot, Donald Waller, and Benjamin Baiser. Homogenization of species composition and species association networks are decoupled. <u><i>Global Ecology and Biogeography</i></u>. In press. <a target="_blank" href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12825"><i class="fa fa-download"></i></a> <a target="_blank" href="https://www.biorxiv.org/content/early/2018/02/14/265264">preprint</i></a>
+</li>
+
+<li> Pedro Albuquerque, Denis Ribeiro do Valle, and <b>Daijiang Li</b>. Bayesian LDA for categorical mixture model clustering. <u><i>Knowledge-Based Systems</i></u>. In press.
 </li>
 
 <li> Benjamin Baiser and <b>Daijiang Li</b>. Comparing species area relationships for native and exotic species. <u><i>Biological Invasions</i></u>. In press.
@@ -145,11 +148,12 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 ## Professional Service and Outreach
 
-- Associate editor: Ecology and Evolution (2018 - present)
+- Associate editor: *Ecology and Evolution* (2018 - present)
 - Manuscript reviewer for ([certified review record](https://publons.com/a/719613/)): 
   + *Ecography*
   + *Ecological Applications*
   + *Ecology Letters*
+  + *Ecosphere*
   + *Global Ecology and Biogeography*
   + *Ibis*
   + *Journal of Applied Ecology*
