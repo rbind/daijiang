@@ -36,7 +36,7 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 <li> <b>Daijiang Li</b>, Lauren Trotta, Hannah Marx, Julie Allen, Miao Sun, Douglas Soltis, Pamela Soltis, Robert Guralnick, and Benjamin Baiser. 2018. For comparing phylogenetic diversity among communities, go ahead and use synthesis phylogenies. <u><i>bioRxiv</i></u>. <a target="_blank" href="https://www.biorxiv.org/content/early/2018/07/16/370353"><i class="fa fa-download"></i></a>
 </li>
 
-<li> <b>Daijiang Li</b>, Timothée Poisot, Donald Waller, and Benjamin Baiser. Homogenization of species composition and species association networks are decoupled. <u><i>Global Ecology and Biogeography</i></u>. In press. <a target="_blank" href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12825"><i class="fa fa-download"></i></a> <a target="_blank" href="https://www.biorxiv.org/content/early/2018/02/14/265264">preprint</i></a>
+<li> <b>Daijiang Li</b>, Timothée Poisot, Donald Waller, and Benjamin Baiser. Homogenization of species composition and species association networks are decoupled. <u><i>Global Ecology and Biogeography</i></u>. In press. <a target="_blank" href="/pdf/Li_et_al-2018-GEB.pdf"><i class="fa fa-download"></i></a> <a target="_blank" href="https://www.biorxiv.org/content/early/2018/02/14/265264">preprint</i></a>
 </li>
 
 <li> Pedro Albuquerque, Denis Ribeiro do Valle, and <b>Daijiang Li</b>. Bayesian LDA for categorical mixture model clustering. <u><i>Knowledge-Based Systems</i></u>. In press.
