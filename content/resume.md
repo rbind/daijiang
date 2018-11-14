@@ -6,7 +6,7 @@ disable_highlight: true
 disable_comments: true
 ---
 
-Full cv available [here](/pdf/Li_cv.pdf).
+<a target="_blank" href="https://scholar.google.com/citations?user=0I2wXJQAAAAJ&hl=en"><i class="ai ai-google-scholar ai-2x" style="padding-top:3px;"></i></a> <a target="_blank" href="https://www.researchgate.net/profile/Daijiang_Li"><i class="ai ai-researchgate ai-2x" style="padding-top:3px;"></i></a> <a target="_blank" href="/pdf/Li_cv.pdf"><i class="ai ai-cv ai-2x"></i></a>
 
 ## Current Position
 
@@ -33,25 +33,31 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 <ol reversed>
 
-<li> <b>Daijiang Li</b>, Lauren Trotta, Hannah Marx, Julie Allen, Miao Sun, Douglas Soltis, Pamela Soltis, Robert Guralnick, and Benjamin Baiser. 2018. For comparing phylogenetic diversity among communities, go ahead and use synthesis phylogenies. <u><i>bioRxiv</i></u>. <a target="_blank" href="https://www.biorxiv.org/content/early/2018/07/16/370353"><i class="fa fa-download"></i></a>
+<li> <b>Daijiang Li</b>, Lauren Trotta, Hannah Marx, Julie Allen, Miao Sun, Douglas Soltis, Pamela Soltis, Robert Guralnick, and Benjamin Baiser. 2018. For comparing phylogenetic diversity among communities, go ahead and use synthesis phylogenies. <a target="_blank" href="https://www.biorxiv.org/content/early/2018/07/16/370353"><i class="ai ai-biorxiv-square"></i></a>
 </li>
 
-<li> <b>Daijiang Li</b>, Timothée Poisot, Donald Waller, and Benjamin Baiser. Homogenization of species composition and species association networks are decoupled. <u><i>Global Ecology and Biogeography</i></u>. In press. <a target="_blank" href="/pdf/Li_et_al-2018-GEB.pdf"><i class="fa fa-download"></i></a> <a target="_blank" href="https://www.biorxiv.org/content/early/2018/02/14/265264">preprint</i></a>
+<li> <b>Daijiang Li</b>, Timothée Poisot, Donald Waller, and Benjamin Baiser. Homogenization of species composition and species association networks are decoupled. <u><i>Global Ecology and Biogeography</i></u>. In press. <a target="_blank" href="/pdf/Li_et_al-2018-GEB.pdf"><i class="fa fa-download"></i></a> <a target="_blank" href="https://www.biorxiv.org/content/early/2018/02/14/265264"><i class="ai ai-biorxiv-square"> </i></a> <a target="_blank" href="https://doi.org/10.6084/m9.figshare.6771938"><i class="ai ai-figshare"> </i></a>
 </li>
 
-<li> Pedro Albuquerque, Denis Ribeiro do Valle, and <b>Daijiang Li</b>. Bayesian LDA for categorical mixture model clustering. <u><i>Knowledge-Based Systems</i></u>. In press.
+<li> <b>Daijiang Li</b>. 2018. hillR: taxonomic, functional, and phylogenetic diversity and similarity through Hill Numbers. <u><i>Journal of Open Source Software</i></u>. 3(31), 1041. <a target="_blank" href="https://doi.org/10.21105/joss.01041"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/daijiang/hillR"><i class="fa fa-github"></i></a>
 </li>
 
-<li> Benjamin Baiser and <b>Daijiang Li</b>. Comparing species area relationships for native and exotic species. <u><i>Biological Invasions</i></u>. In press.
+<li> Anthony Ives and <b>Daijiang Li</b>. 2018. rr2: An R package to calculate R2s for regression models. <u><i>Journal of Open Source Software</i></u>. 3(30), 1028. <a target="_blank" href="https://doi.org/10.21105/joss.01028"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/arives/rr2"><i class="fa fa-github"></i></a>
+</li>
+
+<li> Pedro Albuquerque, Denis Valle, and <b>Daijiang Li</b>. Bayesian LDA for categorical mixture model clustering. <u><i>Knowledge-Based Systems</i></u>. In press. <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0950705118305100"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/PedroBSB/Rlda"><i class="fa fa-github"></i></a>
+</li>
+
+<li> Benjamin Baiser and <b>Daijiang Li</b>. Comparing species area relationships for native and exotic species. <u><i>Biological Invasions</i></u>. In press. <a target="_blank" href="https://link.springer.com/article/10.1007/s10530-018-1802-4"><i class="fa fa-download"></i></a>
 </li>
  
 <li> <b>Daijiang Li</b>, Julie Lockwood, and Benjamin Baiser. Taxonomic and phylogenetic homogenization across US national parks - The role of non-native species. Book chapter in <i>From Biocultural Homogenization to Biocultural Conservation</i>. Edit by Rozzi et al. In press.
 </li>
 
-<li> Lauren Trotta, Benjamin Baiser, Jennifer Possley, <b>Daijiang Li</b>, James Lange, Sarah Martin, and Emily Sessa. Community phylogeny of the globally imperiled pine rockland ecosystem. <u><i>American Journal of Botany</i></u>. In press.
+<li> Lauren Trotta, Benjamin Baiser, Jennifer Possley, <b>Daijiang Li</b>, James Lange, Sarah Martin, and Emily Sessa. Community phylogeny of the globally imperiled pine rockland ecosystem. <u><i>American Journal of Botany</i></u>. In press. <a target="_blank" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1168"><i class="fa fa-download"></i></a>
 </li>
 
-<li> Michael Perring, ..., <b>Daijiang Li</b>, ..., Kris Verheyen. 2018. How nitrogen deposition affects forest understorey plant community change: towards understanding context. <u><i>Environmental Pollution</i></u>. In press.
+<li> Michael Perring, ..., <b>Daijiang Li</b>, ..., Kris Verheyen. 2018. How nitrogen deposition affects forest understorey plant community change: towards understanding context. <u><i>Environmental Pollution</i></u>. 242: 1787-1799. <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0269749118316610"><i class="fa fa-download"></i></a>
 </li>
 
 <li> Huixuan Liao, Fangfang Huang, <b>Daijiang Li</b>, Luyao Kang, Baoming Chen, Ting Zhou, Shaolin Peng. 2018. Soil microbes regulate forest succession in a subtropical ecosystem in China: evidence from a mesocosm experiment. <u><i>Plant and Soil</i></u>. In press. <a target="_blank" href="https://link.springer.com/article/10.1007/s11104-018-3733-3"><i class="fa fa-download"></i></a>
@@ -91,8 +97,6 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 <li> Bosun Wang, Shaolin Peng, <b>Daijiang Li</b>, Ting Zhou. (2009). Research progress on <i>Merremia boisiana</i>. <u><i>Chinese Journal of Ecology</i></u>. 28 (11), 2360-2365 </li>
 
 </ol>
-
-<a target="_blank" href="https://scholar.google.com/citations?user=0I2wXJQAAAAJ&hl=en"><i class="ai ai-google-scholar ai-2x" style="padding-top:3px;"></i>Google Scholar</a>
 
 ## Selected Awards and Grants
 
