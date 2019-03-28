@@ -9,4 +9,6 @@ disable_highlight: true
     <img src="/images/yellow_trout_lily.jpg">
 </div>
 
-<center><strong> Forest Ecology | Biodiversity | Quantitative Ecology | Prediction in a Changing Era | Statistics </strong></center>
+<center><strong> Forest Ecology | Biodiversity | Prediction in a Changing Era </strong></center>
+
+<center><strong> Quantitative Ecology | Statistics </strong></center>
