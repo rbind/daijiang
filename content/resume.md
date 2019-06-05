@@ -33,10 +33,16 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 <ol reversed>
 
-<li> <b>Daijiang Li</b>, Lauren Trotta, Hannah Marx, Julie Allen, Miao Sun, Douglas Soltis, Pamela Soltis, Robert Guralnick, and Benjamin Baiser. 2018. For comparing phylogenetic diversity among communities, go ahead and use synthesis phylogenies. <a target="_blank" href="https://www.biorxiv.org/content/early/2018/07/16/370353"><i class="ai ai-biorxiv-square"></i></a>
+<li> <b>Daijiang Li</b>, Lauren Trotta, Hannah Marx, Julie Allen, Miao Sun, Douglas Soltis, Pamela Soltis, Robert Guralnick, and Benjamin Baiser. 2019. For common community phylogenetic analyses, go ahead and use synthesis phylogenies. <u><i>Ecology</i></u>. In press. <a target="_blank" href="https://www.biorxiv.org/content/10.1101/370353v3.full"><i class="ai ai-biorxiv-square"></i></a>
 </li>
 
-<li> <b>Daijiang Li</b>, Timothée Poisot, Donald Waller, and Benjamin Baiser. Homogenization of species composition and species association networks are decoupled. <u><i>Global Ecology and Biogeography</i></u>. In press. <a target="_blank" href="/pdf/Li_et_al-2018-GEB.pdf"><i class="fa fa-download"></i></a> <a target="_blank" href="https://www.biorxiv.org/content/early/2018/02/14/265264"><i class="ai ai-biorxiv-square"> </i></a> <a target="_blank" href="https://doi.org/10.6084/m9.figshare.6771938"><i class="ai ai-figshare"> </i></a>
+<li> Benjamin Baiser, ..., <b>Daijiang Li</b>, ..., Justin Yeakel. 2019. Ecogeographical rules and the macroecology of food webs. <u><i>Global Ecology and Biogeography</i></u>. In press. <a target="_blank" href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12925"><i class="fa fa-download"></i></a>
+</li>
+
+<li> Pedro Albuquerque, Denis Valle, and <b>Daijiang Li</b>. 2019. Bayesian LDA for mixed-membership clustering analysis: The Rlda package. <u><i>Knowledge-Based Systems</i></u>. 163, 988-995. <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0950705118305100"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/PedroBSB/Rlda"><i class="fa fa-github"></i></a>
+</li>
+
+<li> <b>Daijiang Li</b>, Timothée Poisot, Donald Waller, and Benjamin Baiser. 2018. Homogenization of species composition and species association networks are decoupled. <u><i>Global Ecology and Biogeography</i></u>. 27(12), 1481-1491. <a target="_blank" href="/pdf/Li_et_al-2018-GEB.pdf"><i class="fa fa-download"></i></a> <a target="_blank" href="https://www.biorxiv.org/content/early/2018/02/14/265264"><i class="ai ai-biorxiv-square"> </i></a> <a target="_blank" href="https://doi.org/10.6084/m9.figshare.6771938"><i class="ai ai-figshare"> </i></a>
 </li>
 
 <li> <b>Daijiang Li</b>. 2018. hillR: taxonomic, functional, and phylogenetic diversity and similarity through Hill Numbers. <u><i>Journal of Open Source Software</i></u>. 3(31), 1041. <a target="_blank" href="https://doi.org/10.21105/joss.01041"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/daijiang/hillR"><i class="fa fa-github"></i></a>
@@ -45,22 +51,19 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 <li> Anthony Ives and <b>Daijiang Li</b>. 2018. rr2: An R package to calculate R2s for regression models. <u><i>Journal of Open Source Software</i></u>. 3(30), 1028. <a target="_blank" href="https://doi.org/10.21105/joss.01028"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/arives/rr2"><i class="fa fa-github"></i></a>
 </li>
 
-<li> Pedro Albuquerque, Denis Valle, and <b>Daijiang Li</b>. Bayesian LDA for categorical mixture model clustering. <u><i>Knowledge-Based Systems</i></u>. In press. <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0950705118305100"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/PedroBSB/Rlda"><i class="fa fa-github"></i></a>
-</li>
-
-<li> Benjamin Baiser and <b>Daijiang Li</b>. Comparing species area relationships for native and exotic species. <u><i>Biological Invasions</i></u>. In press. <a target="_blank" href="https://link.springer.com/article/10.1007/s10530-018-1802-4"><i class="fa fa-download"></i></a>
+<li> Benjamin Baiser and <b>Daijiang Li</b>. 2018. Comparing species area relationships for native and exotic species. <u><i>Biological Invasions</i></u>. 20(12), 3647–3658. <a target="_blank" href="https://link.springer.com/article/10.1007/s10530-018-1802-4"><i class="fa fa-download"></i></a>
 </li>
  
-<li> <b>Daijiang Li</b>, Julie Lockwood, and Benjamin Baiser. Taxonomic and phylogenetic homogenization across US national parks - The role of non-native species. Book chapter in <i>From Biocultural Homogenization to Biocultural Conservation</i>. Edit by Rozzi et al. In press.
+<li> <b>Daijiang Li</b>, Julie Lockwood, and Benjamin Baiser. 2018. Taxonomic and phylogenetic homogenization across US national parks - The role of non-native species. Book chapter in <i>From Biocultural Homogenization to Biocultural Conservation</i>. Edit by Rozzi et al.
 </li>
 
-<li> Lauren Trotta, Benjamin Baiser, Jennifer Possley, <b>Daijiang Li</b>, James Lange, Sarah Martin, and Emily Sessa. Community phylogeny of the globally imperiled pine rockland ecosystem. <u><i>American Journal of Botany</i></u>. In press. <a target="_blank" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1168"><i class="fa fa-download"></i></a>
+<li> Lauren Trotta, Benjamin Baiser, Jennifer Possley, <b>Daijiang Li</b>, James Lange, Sarah Martin, and Emily Sessa. 2018. Community phylogeny of the globally imperiled pine rockland ecosystem. <u><i>American Journal of Botany</i></u>. 105(10): 1735–1747. <a target="_blank" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1168"><i class="fa fa-download"></i></a>
 </li>
 
 <li> Michael Perring, ..., <b>Daijiang Li</b>, ..., Kris Verheyen. 2018. How nitrogen deposition affects forest understorey plant community change: towards understanding context. <u><i>Environmental Pollution</i></u>. 242: 1787-1799. <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0269749118316610"><i class="fa fa-download"></i></a>
 </li>
 
-<li> Huixuan Liao, Fangfang Huang, <b>Daijiang Li</b>, Luyao Kang, Baoming Chen, Ting Zhou, Shaolin Peng. 2018. Soil microbes regulate forest succession in a subtropical ecosystem in China: evidence from a mesocosm experiment. <u><i>Plant and Soil</i></u>. In press. <a target="_blank" href="https://link.springer.com/article/10.1007/s11104-018-3733-3"><i class="fa fa-download"></i></a>
+<li> Huixuan Liao, Fangfang Huang, <b>Daijiang Li</b>, Luyao Kang, Baoming Chen, Ting Zhou, Shaolin Peng. 2018. Soil microbes regulate forest succession in a subtropical ecosystem in China: evidence from a mesocosm experiment. <u><i>Plant and Soil</i></u>. 430(1-2), 277-289. <a target="_blank" href="https://link.springer.com/article/10.1007/s11104-018-3733-3"><i class="fa fa-download"></i></a>
 </li>
 
 <li> <b>Daijiang Li</b>, William Monahan, and Benjamin Baiser. 2018. Species richness and phylogenetic diversity of native and non-native species respond differently to area and environmental factors. <u><i>Diversity and Distributions</i></u>. 24: 853-864. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/ddi.12731/abstract"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/daijiang/rnps"><i class="fa fa-github"></i></a>
@@ -165,6 +168,7 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
   + *Nature Scientific Reports*
   + *New Phytologist*
   + *Plos One*
+  + *Proc B*
   + *Science*
 - 2014, Darwin day volunteer, UW-Madison.
 - 2013 ~ 2014. Biology Colloquium Committee, Botany department, UW-Madison.
