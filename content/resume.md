@@ -33,7 +33,10 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 <ol reversed>
 
-<li> <b>Daijiang Li</b>, Lauren Trotta, Hannah Marx, Julie Allen, Miao Sun, Douglas Soltis, Pamela Soltis, Robert Guralnick, and Benjamin Baiser. 2019. For common community phylogenetic analyses, go ahead and use synthesis phylogenies. <u><i>Ecology</i></u>. In press. <a target="_blank" href="https://www.biorxiv.org/content/10.1101/370353v3.full"><i class="ai ai-biorxiv-square"></i></a>
+<li> <b>Daijiang Li</b>, Lauren Trotta, Hannah Marx, Julie Allen, Miao Sun, Douglas Soltis, Pamela Soltis, Robert Guralnick, and Benjamin Baiser. 2019. For common community phylogenetic analyses, go ahead and use synthesis phylogenies. <u><i>Ecology</i></u>. In press. <a target="_blank" href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.2788"><i class="fa fa-download"></i></a> <a target="_blank" href="https://www.biorxiv.org/content/10.1101/370353v3.full"><i class="ai ai-biorxiv-square"></i></a>
+</li>
+
+<li> Jesse Miller, <b>Daijiang Li</b>, Marina LaForgia, and Susan Harrison. 2019. Functional diversity is a passenger but not driver of drought-related plant diversity losses in annual grasslands. <u><i>Journal of Ecology</i></u>. In press.
 </li>
 
 <li> Benjamin Baiser, ..., <b>Daijiang Li</b>, ..., Justin Yeakel. 2019. Ecogeographical rules and the macroecology of food webs. <u><i>Global Ecology and Biogeography</i></u>. In press. <a target="_blank" href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12925"><i class="fa fa-download"></i></a>
