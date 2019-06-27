@@ -33,6 +33,8 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 <ol reversed>
 
+<h3>2019</h3>
+
 <li> <b>Daijiang Li</b>, Lauren Trotta, Hannah Marx, Julie Allen, Miao Sun, Douglas Soltis, Pamela Soltis, Robert Guralnick, and Benjamin Baiser. 2019. For common community phylogenetic analyses, go ahead and use synthesis phylogenies. <u><i>Ecology</i></u>. In press. <a target="_blank" href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.2788"><i class="fa fa-download"></i></a> <a target="_blank" href="https://www.biorxiv.org/content/10.1101/370353v3.full"><i class="ai ai-biorxiv-square"></i></a>
 </li>
 
@@ -44,6 +46,8 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 <li> Pedro Albuquerque, Denis Valle, and <b>Daijiang Li</b>. 2019. Bayesian LDA for mixed-membership clustering analysis: The Rlda package. <u><i>Knowledge-Based Systems</i></u>. 163, 988-995. <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0950705118305100"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/PedroBSB/Rlda"><i class="fa fa-github"></i></a>
 </li>
+
+<h3>2018</h3>
 
 <li> <b>Daijiang Li</b>, Timothée Poisot, Donald Waller, and Benjamin Baiser. 2018. Homogenization of species composition and species association networks are decoupled. <u><i>Global Ecology and Biogeography</i></u>. 27(12), 1481-1491. <a target="_blank" href="/pdf/Li_et_al-2018-GEB.pdf"><i class="fa fa-download"></i></a> <a target="_blank" href="https://www.biorxiv.org/content/early/2018/02/14/265264"><i class="ai ai-biorxiv-square"> </i></a> <a target="_blank" href="https://doi.org/10.6084/m9.figshare.6771938"><i class="ai ai-figshare"> </i></a>
 </li>
@@ -78,7 +82,9 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 <li> Michael Perring, ..., <b>Daijiang Li</b>, ..., Kris Verheyen. 2018. Environmental change effects on plant community trajectories depend upon management legacies. <u><i>Global Change Biology</i></u>. 24:1722–1740. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/gcb.14030/abstract"><i class="fa fa-download"></i></a>
 </li>
 
- <li> <b>Daijiang Li</b> and Anthony Ives. 2017. The statistical need to include phylogeny in trait-based analyses of community composition. <u><i>Methods in Ecology and Evolution</i></u>. 8: 1192–1199. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12767/abstract"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/daijiang/Trait-Envi-Interactions"><i class="fa fa-github"></i></a>
+<h3>2017</h3>
+
+<li> <b>Daijiang Li</b> and Anthony Ives. 2017. The statistical need to include phylogeny in trait-based analyses of community composition. <u><i>Methods in Ecology and Evolution</i></u>. 8: 1192–1199. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12767/abstract"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/daijiang/Trait-Envi-Interactions"><i class="fa fa-github"></i></a>
  </li>
 
 <li> <b>Daijiang Li</b> and Donald Waller. 2017. Fire exclusion and climate change interact to affect long-term changes in the functional composition of plant communities. <u><i>Diversity and Distributions</i></u>. 23: 496-506. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/ddi.12542/abstract"><i class="fa fa-download"></i></a> 
@@ -89,6 +95,8 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 <li> Kris Verheyen, Pieter De Frenne, ..., <b>Daijiang Li</b>, ..., Markus Bernhardt-Romermann. 2017. Combining biodiversity resurveys across regions to advance global change research. <u><i>Bioscience</i></u>. 67: 73-83. <a target="_blank" href="https://academic.oup.com/bioscience/article/67/1/73/2661833/Combining-Biodiversity-Resurveys-across-Regions-to#50671780"><i class="fa fa-download"></i></a>
 </li>
+
+<h3>2016 and before</h3>
 
 <li> <b>Daijiang Li</b> and Donald Waller. 2016. Long-term shifts in the patterns and underlying processes of plant associations in Wisconsin forests. <u><i>Global Ecology and Biogeography</i></u>. 25: 516–526. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/geb.12432/abstract"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/daijiang/Plant_Co-occurrence_Patterns"><i class="fa fa-github"></i></a>
 </li>
@@ -103,6 +111,7 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 <li> Bosun Wang, Shaolin Peng, <b>Daijiang Li</b>, Ting Zhou. (2009). Research progress on <i>Merremia boisiana</i>. <u><i>Chinese Journal of Ecology</i></u>. 28 (11), 2360-2365 </li>
 
 </ol>
+
 
 ## Selected Awards and Grants
 
