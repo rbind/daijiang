@@ -220,7 +220,7 @@ curve(L, from = 0, to = 1, main = paste("p = ", p, "mean(x) = ", mean(xi),
     " n = ", n))
 ```
 
-![plot of chunk unnamed-chunk-2](http://i.imgur.com/aj99JQI.png) 
+![plot of chunk unnamed-chunk-2](https://i.imgur.com/aj99JQI.png) 
 
 Here, the maximum likelihood is at `x = 0.7`, which is the `mean(x)` not the true probability `p`. This is because the maximum likelihood is estimated from the actual data, not the TRUE underlying probability that we always do not know. 
 
@@ -254,7 +254,7 @@ plot(W(pp, n), type = "h", main = paste("p=", pp, "p_hat=", p_hat, "lower=",
 points(p_hat, 0, col = "red")
 ```
 
-![plot of chunk unnamed-chunk-3](http://i.imgur.com/OxiK42C.png) 
+![plot of chunk unnamed-chunk-3](https://i.imgur.com/OxiK42C.png) 
 
 In this case, 0.3 is not within the 95% CI of `p_hat`.
 
@@ -284,7 +284,7 @@ plot(W(pp, n), type = "h", main = paste("p=", pp, "p_hat=", p_hat, "lower=",
 points(p_hat, 0, col = "red")
 ```
 
-![plot of chunk unnamed-chunk-4](http://i.imgur.com/eIrYaIF.png) 
+![plot of chunk unnamed-chunk-4](https://i.imgur.com/eIrYaIF.png) 
 
 In this case, 0.6 is within the 95% CI. Repeat this procedure, we can get the 95% CI for `p_hat`.
 
@@ -315,7 +315,7 @@ plot(W(pp, n), type = "h", main = paste("p=", 0.001 * round(1000 * pp),
 points(p_hat, 0, col = "red")
 ```
 
-![plot of chunk unnamed-chunk-5](http://i.imgur.com/s0e1Lwi.png) 
+![plot of chunk unnamed-chunk-5](https://i.imgur.com/s0e1Lwi.png) 
 
 ```r
 # Test confidence intervals

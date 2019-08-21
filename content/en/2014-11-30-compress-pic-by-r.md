@@ -25,7 +25,7 @@ filter.img = function(mat, k = 1) {
 ```
 
 Then let's read the picture below. Then we seperate the red, green, and blue arrays of the picture.
-![v](http://i.imgur.com/HclZzde.png)
+![v](https://i.imgur.com/HclZzde.png)
 
 ```r
 # read picture and get red, green, blue arrays
@@ -52,14 +52,14 @@ Ok, let's try different extents of compression.
 ```r
 final.png(k = 1)
 ```
-![k1](http://i.imgur.com/poS9Cza.png)
+![k1](https://i.imgur.com/poS9Cza.png)
 
 ```r
 final.png(k = 3)
 ```
-![k3](http://i.imgur.com/nvO5vwx.png)
+![k3](https://i.imgur.com/nvO5vwx.png)
 
 ```r
 final.png(k = 5)
 ```
-![k5](http://i.imgur.com/3Leq1uy.png)
+![k5](https://i.imgur.com/3Leq1uy.png)

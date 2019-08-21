@@ -241,7 +241,7 @@ ggplot(dat, aes(x = lec, y = view)) +
        Gilbert Strang, Srping 2005")
 ```
 
-![Imgur](http://i.imgur.com/DtGk7Rt.png)
+![Imgur](https://i.imgur.com/DtGk7Rt.png)
 
 Wow, the first lecture has 1,471,030 by far (2015-06-21-23:00 Central Time)! However, the view count of the second lecture is about one million lower than the first one. It will be interesting to find out why lecture 21 and 22 have more view counts than their neighbors (I am getting their, at lecture 14 now! -- Eigenvalues!). The last lecture has about 50K views. Does this mean about 50K people finished all lectures? 
 

@@ -34,7 +34,7 @@ p+geom_point(data=data,aes(long,lat,colour = type, shape=type),
   scale_colour_manual(values=cbPalette)
 ```
 
-![ggmap-site](http://i.imgur.com/nYFKywM.png)
+![ggmap-site](https://i.imgur.com/nYFKywM.png)
 
 Or, another version:
 
@@ -47,5 +47,5 @@ ggplot(data, aes(long, lat))+
 # maps("state", region = c("wisconsin", "michigan:north"))
 ```
 
-![map-site](http://i.imgur.com/n7nuFKq.png)
+![map-site](https://i.imgur.com/n7nuFKq.png)
 

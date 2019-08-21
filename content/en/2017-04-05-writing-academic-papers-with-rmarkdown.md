@@ -21,7 +21,7 @@ Until recently, I found that the convertion from LaTex and Rmarkdown to Word is 
 
 First, you need to know a little bit about the [syntax](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf). Don't worry, I am sure you will get it in five minutes. If you use Rstudio, this can be found under "Help" menu.
 
-![rmarkdown references](http://i.imgur.com/U8RHPbm.png)
+![rmarkdown references](https://i.imgur.com/U8RHPbm.png)
 
 # Packages needed
 
@@ -91,7 +91,7 @@ Here is a statement [@key1; @key2].
 Some examples [e.g. @key4; @key5; but see @key6]
 ```
 
-![example of citaitons in markdown](http://i.imgur.com/EbKvlDr.png)
+![example of citaitons in markdown](https://i.imgur.com/EbKvlDr.png)
 
 ## Cross-references
 
@@ -117,6 +117,6 @@ See more examples in the [github file](https://github.com/daijiang/workflow_demo
 These pretty much cover most of the common features of scientific writing: citations, cross-references, tables, figures. You can checkout [`bookdown`](https://bookdown.org/yihui/bookdown/) website for details. Even though `bookdown` is made for writing books, it is actually very good for writing papers too!
 
 How do you set up Rmarkdown for writing? What tips do you have? Issues? Comments are very welcome. Or even better, you can click the `pen on paper` button at the top right of the post and edit it.
-![edit this page](http://i.imgur.com/INZSdHa.png?1)
+![edit this page](https://i.imgur.com/INZSdHa.png?1)
 
 Thanks for reading and commenting!

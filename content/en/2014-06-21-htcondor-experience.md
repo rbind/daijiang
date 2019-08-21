@@ -37,7 +37,7 @@ Before doing anything with HTCondor, you need to get access to it. Talk with you
 
 That is it! Now you have submitted your jobs and you want to check the progress. You can use `condor_q $USER` to check how many jobs are running, how many are in quene. You can also use `less mydag.dag.dagman.out` in the `Rout` directory (then press `space` to view the out file page by page, or press `G` to go to the end of the file). It will tell you how many jobs have been done, how many are running, etc. 
 
-![Imgur](http://i.imgur.com/LwfOE4C.png)
+![Imgur](https://i.imgur.com/LwfOE4C.png)
 
 At the end, I want to list some important points:
 

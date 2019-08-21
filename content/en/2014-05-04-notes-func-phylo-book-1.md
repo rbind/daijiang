@@ -74,7 +74,7 @@ plot.phylo(com.1.phylo)
 nodelabels()
 tiplabels()
 ```
-![plot](http://i.imgur.com/2jWZkOy.png)
+![plot](https://i.imgur.com/2jWZkOy.png)
 
 
 ```r

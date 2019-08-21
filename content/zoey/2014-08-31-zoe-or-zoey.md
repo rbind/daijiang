@@ -27,7 +27,7 @@ babynames %>%
   ggplot()+geom_line(aes(x=year, y=prop, color = name), size = 2)+facet_wrap(~sex)
 ```
 
-![zoey](http://i.imgur.com/V1I4sGX.png)
+![zoey](https://i.imgur.com/V1I4sGX.png)
 
 ```r
 babynames %>%
@@ -36,7 +36,7 @@ babynames %>%
   ggplot()+geom_line(aes(x=year, y=n, color = name, linetype = name), size = 2)+facet_wrap(~sex)
 ```
 
-![other](http://i.imgur.com/qt8618s.png)
+![other](https://i.imgur.com/qt8618s.png)
 
 Zoe这个名字从1880年就有人用了，而Zoey到了1970才每年有超过5个人用。这两个名字从1990年以后就都变得流行起来。而2000年以后，Zoey比Zoe更流行了。
 
