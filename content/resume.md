@@ -35,13 +35,19 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 <h3>2019</h3>
 
+<li> <b>Daijiang Li</b>, Brian Stucky, John Deck, Benjamin Baiser, and Robert Guralnick. 2019. The effect of urbanization on plant phenology depends on regional temperature. <u><i>Nature Ecology and Evolution</i></u>. In press.
+</li>
+
+<li> <b>Daijiang Li</b>, Jesse Miller, and Susan Harrison. 2019. Climate drives loss of phylogenetic diversity in a grassland community. <u><i>Proceedings of the National Academy of Sciences</i></u>. In press.
+</li>
+
 <li> <b>Daijiang Li</b>, Lauren Trotta, Hannah Marx, Julie Allen, Miao Sun, Douglas Soltis, Pamela Soltis, Robert Guralnick, and Benjamin Baiser. 2019. For common community phylogenetic analyses, go ahead and use synthesis phylogenies. <u><i>Ecology</i></u>. In press. <a target="_blank" href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.2788"><i class="fa fa-download"></i></a> <a target="_blank" href="https://www.biorxiv.org/content/10.1101/370353v3.full"><i class="ai ai-biorxiv-square"></i></a>
 </li>
 
-<li> Jesse Miller, <b>Daijiang Li</b>, Marina LaForgia, and Susan Harrison. 2019. Functional diversity is a passenger but not driver of drought-related plant diversity losses in annual grasslands. <u><i>Journal of Ecology</i></u>. In press.
+<li> Jesse Miller, <b>Daijiang Li</b>, Marina LaForgia, and Susan Harrison. 2019. Functional diversity is a passenger but not driver of drought-related plant diversity losses in annual grasslands. <u><i>Journal of Ecology</i></u>. 107:2033-2039. <a target="_blank" href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.13244"><i class="fa fa-download"></i></a>
 </li>
 
-<li> Benjamin Baiser, ..., <b>Daijiang Li</b>, ..., Justin Yeakel. 2019. Ecogeographical rules and the macroecology of food webs. <u><i>Global Ecology and Biogeography</i></u>. In press. <a target="_blank" href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12925"><i class="fa fa-download"></i></a>
+<li> Benjamin Baiser, ..., <b>Daijiang Li</b>, ..., Justin Yeakel. 2019. Ecogeographical rules and the macroecology of food webs. <u><i>Global Ecology and Biogeography</i></u>. 28:1204-1218. <a target="_blank" href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12925"><i class="fa fa-download"></i></a>
 </li>
 
 <li> Pedro Albuquerque, Denis Valle, and <b>Daijiang Li</b>. 2019. Bayesian LDA for mixed-membership clustering analysis: The Rlda package. <u><i>Knowledge-Based Systems</i></u>. 163, 988-995. <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0950705118305100"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/PedroBSB/Rlda"><i class="fa fa-github"></i></a>
