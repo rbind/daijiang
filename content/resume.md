@@ -38,10 +38,10 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 <li> <b>Daijiang Li</b>, Brian Stucky, John Deck, Benjamin Baiser, and Robert Guralnick. 2019. The effect of urbanization on plant phenology depends on regional temperature. <u><i>Nature Ecology and Evolution</i></u>. In press.
 </li>
 
-<li> <b>Daijiang Li</b>, Jesse Miller, and Susan Harrison. 2019. Climate drives loss of phylogenetic diversity in a grassland community. <u><i>Proceedings of the National Academy of Sciences</i></u>. In press.
+<li> <b>Daijiang Li</b>, Jesse Miller, and Susan Harrison. 2019. Climate drives loss of phylogenetic diversity in a grassland community. <u><i>Proceedings of the National Academy of Sciences</i></u>. 116:19989-19994. <a target="_blank" href="https://www.pnas.org/content/116/40/19989"><i class="fa fa-download"></i></a> 
 </li>
 
-<li> <b>Daijiang Li</b>, Lauren Trotta, Hannah Marx, Julie Allen, Miao Sun, Douglas Soltis, Pamela Soltis, Robert Guralnick, and Benjamin Baiser. 2019. For common community phylogenetic analyses, go ahead and use synthesis phylogenies. <u><i>Ecology</i></u>. In press. <a target="_blank" href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.2788"><i class="fa fa-download"></i></a> <a target="_blank" href="https://www.biorxiv.org/content/10.1101/370353v3.full"><i class="ai ai-biorxiv-square"></i></a>
+<li> <b>Daijiang Li</b>, Lauren Trotta, Hannah Marx, Julie Allen, Miao Sun, Douglas Soltis, Pamela Soltis, Robert Guralnick, and Benjamin Baiser. 2019. For common community phylogenetic analyses, go ahead and use synthesis phylogenies. <u><i>Ecology</i></u>. 100:e02788. <a target="_blank" href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.2788"><i class="fa fa-download"></i></a> <a target="_blank" href="https://www.biorxiv.org/content/10.1101/370353v3.full"><i class="ai ai-biorxiv-square"></i></a>
 </li>
 
 <li> Jesse Miller, <b>Daijiang Li</b>, Marina LaForgia, and Susan Harrison. 2019. Functional diversity is a passenger but not driver of drought-related plant diversity losses in annual grasslands. <u><i>Journal of Ecology</i></u>. 107:2033-2039. <a target="_blank" href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.13244"><i class="fa fa-download"></i></a>
