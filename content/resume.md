@@ -33,9 +33,14 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 <ol reversed>
 
+<h3>2020</h3>
+
+<li> Vijay Barve, Laura Brenskelle, <b>Daijiang Li</b>, Brian Stucky, Narayani Barve, Maggie Hantak, Bryan McLean, Daniel Paluh, Jessica Oswald, Michael Belitz, Ryan Folk, Robert Guralnick. 2020. Methods for broad-scale plant phenology assessments using citizen scientists’ photographs. <u><i>Applications in Plant Sciences</i></u>. 8(1): e11315. <a target="_blank" href="https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/aps3.11315"><i class="fa fa-download"></i></a> 
+</li>
+
 <h3>2019</h3>
 
-<li> <b>Daijiang Li</b>, Brian Stucky, John Deck, Benjamin Baiser, and Robert Guralnick. 2019. The effect of urbanization on plant phenology depends on regional temperature. <u><i>Nature Ecology and Evolution</i></u>. In press. <a target="_blank" href="https://www.nature.com/articles/s41559-019-1004-1"><i class="fa fa-download"></i></a> <a target="_blank" href="https://www.nature.com/articles/s41559-019-1043-7">News & Views</a> <a target="_blank" href="https://natureecoevocommunity.nature.com/users/312598-daijiang-li/posts/54501-urbanization-advanced-plant-phenology-in-cold-but-not-warm-areas">Blog post</a> <a target="_blank" href="https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=299609">NSF highlight</a> <a target="_blank" href="https://www.floridamuseum.ufl.edu/science/urbanization-delays-spring-plant-growth-in-warm-regions/">Press release 1</a> <a target="_blank" href="https://cosmosmagazine.com/climate/cities-messing-with-spring-s-signals">Press release 2</a>
+<li> <b>Daijiang Li</b>, Brian Stucky, John Deck, Benjamin Baiser, and Robert Guralnick. 2019. The effect of urbanization on plant phenology depends on regional temperature. <u><i>Nature Ecology and Evolution</i></u>. 3:1661-1667. <a target="_blank" href="https://www.nature.com/articles/s41559-019-1004-1"><i class="fa fa-download"></i></a> <a target="_blank" href="https://www.nature.com/articles/s41559-019-1043-7">News & Views</a> <a target="_blank" href="https://natureecoevocommunity.nature.com/users/312598-daijiang-li/posts/54501-urbanization-advanced-plant-phenology-in-cold-but-not-warm-areas">Blog post</a> <a target="_blank" href="https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=299609">NSF highlight</a> <a target="_blank" href="https://www.floridamuseum.ufl.edu/science/urbanization-delays-spring-plant-growth-in-warm-regions/">Press release 1</a> <a target="_blank" href="https://cosmosmagazine.com/climate/cities-messing-with-spring-s-signals">Press release 2</a>
 </li>
 
 <li> <b>Daijiang Li</b>, Jesse Miller, and Susan Harrison. 2019. Climate drives loss of phylogenetic diversity in a grassland community. <u><i>Proceedings of the National Academy of Sciences</i></u>. 116:19989-19994. <a target="_blank" href="https://www.pnas.org/content/116/40/19989"><i class="fa fa-download"></i></a> 
