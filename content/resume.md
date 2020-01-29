@@ -35,6 +35,8 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 <h3>2020</h3>
 
+<li>Susan Harrison, Marko Spasojevic, and <b>Daijiang Li</b>. Climate and plant community diversity in space and time. <u><i>Proceedings of the National Academy of Sciences</i></u>. <i>In press</i>.</li>
+
 <li> Vijay Barve, Laura Brenskelle, <b>Daijiang Li</b>, Brian Stucky, Narayani Barve, Maggie Hantak, Bryan McLean, Daniel Paluh, Jessica Oswald, Michael Belitz, Ryan Folk, Robert Guralnick. 2020. Methods for broad-scale plant phenology assessments using citizen scientists’ photographs. <u><i>Applications in Plant Sciences</i></u>. 8(1): e11315. <a target="_blank" href="https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/aps3.11315"><i class="fa fa-download"></i></a> 
 </li>
 
