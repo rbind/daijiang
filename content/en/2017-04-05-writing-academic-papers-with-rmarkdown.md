@@ -103,6 +103,16 @@ Insert tables by `knitr::kable` function (`::` tells that the `kable` function i
     knitr::kable(mtcars[1:5, 1:5], booktabs = T, caption = "Caption here.")
     ```
 
+The awesome [R package `kableExtra`](https://CRAN.R-project.org/package=kableExtra) can be used to customize tables and figures. When render into Word document, if you used `library(kableExtra)` earlier, this may [mess up the tables](https://github.com/haozhu233/kableExtra/issues/477). I added the following code in the set up chunk so that the package won't be loaded if knit to Word document.
+
+```r
+if(knitr::is_latex_output() | knitr::is_html_output()){
+  library(kableExtra)
+} else {
+  options(kableExtra.auto_format = FALSE) # for docx
+}
+```
+
 ### Figures
 
 Figures are very similar to cross-refer with tables. Basically, you use `Figure \@ref(fig:figName)` to refer to it. And you put the lable (`figName` here) and caption in the R code chunk:
@@ -113,6 +123,7 @@ Figures are very similar to cross-refer with tables. Basically, you use `Figure 
 
 See more examples in the [github file](https://github.com/daijiang/workflow_demo/blob/master/Doc/ms.Rmd).
 
+For complex figure or table captions, we can use [text references](https://bookdown.org/yihui/bookdown/markdown-extensions-by-bookdown.html#text-references). But make sure that _no space at the end of the text_! Otherwise, the captions won't be repaced by the text references in Word document. 
 
 These pretty much cover most of the common features of scientific writing: citations, cross-references, tables, figures. You can checkout [`bookdown`](https://bookdown.org/yihui/bookdown/) website for details. Even though `bookdown` is made for writing books, it is actually very good for writing papers too!
 
