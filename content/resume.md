@@ -14,9 +14,9 @@ I am currently a postdoc associate in the [Department of Wildlife Ecology and Co
 
 ## Education
 
-- 2011 -- 2016, Ph.D., Department of Botany (focus on Quantitative Ecology), University of Wisconsin-Madison. [Defense video](https://www.youtube.com/watch?v=53PN-ckOYyk)  
-- 2013 -- 2016, M.S., Biometry, Department of Statistics, University of Wisconsin-Madison.  
-- 2008 -- 2011, M.S., School of Life Science, Sun Yat-sen University, China.  
+- 2011 -- 2016, Ph.D., Department of Botany (focus on Quantitative Ecology), University of Wisconsin-Madison. [Defense video](https://www.youtube.com/watch?v=53PN-ckOYyk)
+- 2013 -- 2016, M.S., Biometry, Department of Statistics, University of Wisconsin-Madison.
+- 2008 -- 2011, M.S., School of Life Science, Sun Yat-sen University, China.
 - 2004 -- 2008, B.A., School of Life Science, Yunnan University, China.
 
 <!-- ## Research Interests
@@ -35,9 +35,13 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 <h3>2020</h3>
 
-<li>Susan Harrison, Marko Spasojevic, and <b>Daijiang Li</b>. Climate and plant community diversity in space and time. <u><i>Proceedings of the National Academy of Sciences</i></u>. <i>In press</i>.</li>
+<li><b>Daijiang Li</b>, Julian Olden, Julie Lockwood, Sydne Record, Michael McKinney, and Benjamin Baiser. 2020. Widespread Loss of Spatial Taxonomic, but not Phylogenetic, Diversity in the Anthropocene. <u><i>Proceedings B</i></u>. 287:20200777. <a target="_blank" href="https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.0777"><i class="fa fa-download"></i></a> </li>
 
-<li> Vijay Barve, Laura Brenskelle, <b>Daijiang Li</b>, Brian Stucky, Narayani Barve, Maggie Hantak, Bryan McLean, Daniel Paluh, Jessica Oswald, Michael Belitz, Ryan Folk, Robert Guralnick. 2020. Methods for broad-scale plant phenology assessments using citizen scientists’ photographs. <u><i>Applications in Plant Sciences</i></u>. 8(1): e11315. <a target="_blank" href="https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/aps3.11315"><i class="fa fa-download"></i></a> 
+<li>Robert Guralnick, Maggie Hantak, <b>Daijiang Li</b>, and Bryan McLean. 2020. Body size trends in response to climate and urbanization in the widespread North American deer mouse, <i>Peromyscus maniculatus</i>. <u><i>Scientific Reports</i></u>. 10:8882. <a target="_blank" href="https://www.nature.com/articles/s41598-020-65755-x"><i class="fa fa-download"></i></a> </li>
+
+<li>Susan Harrison, Marko Spasojevic, and <b>Daijiang Li</b>. 2020. Climate and plant community diversity in space and time. <u><i>Proceedings of the National Academy of Sciences</i></u>. 116(9):4464-4470. <a target="_blank" href="https://www.pnas.org/content/early/2020/02/11/1921724117"><i class="fa fa-download"></i></a> </li>
+
+<li> Vijay Barve, Laura Brenskelle, <b>Daijiang Li</b>, Brian Stucky, Narayani Barve, Maggie Hantak, Bryan McLean, Daniel Paluh, Jessica Oswald, Michael Belitz, Ryan Folk, Robert Guralnick. 2020. Methods for broad-scale plant phenology assessments using citizen scientists’ photographs. <u><i>Applications in Plant Sciences</i></u>. 8(1): e11315. <a target="_blank" href="https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/aps3.11315"><i class="fa fa-download"></i></a>
 </li>
 
 <h3>2019</h3>
@@ -45,7 +49,7 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 <li> <b>Daijiang Li</b>, Brian Stucky, John Deck, Benjamin Baiser, and Robert Guralnick. 2019. The effect of urbanization on plant phenology depends on regional temperature. <u><i>Nature Ecology and Evolution</i></u>. 3:1661-1667. <a target="_blank" href="https://www.nature.com/articles/s41559-019-1004-1"><i class="fa fa-download"></i></a> <a target="_blank" href="https://www.nature.com/articles/s41559-019-1043-7">News & Views</a> <a target="_blank" href="https://natureecoevocommunity.nature.com/users/312598-daijiang-li/posts/54501-urbanization-advanced-plant-phenology-in-cold-but-not-warm-areas">Blog post</a> <a target="_blank" href="https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=299609">NSF highlight</a> <a target="_blank" href="https://www.floridamuseum.ufl.edu/science/urbanization-delays-spring-plant-growth-in-warm-regions/">Press release 1</a> <a target="_blank" href="https://cosmosmagazine.com/climate/cities-messing-with-spring-s-signals">Press release 2</a>
 </li>
 
-<li> <b>Daijiang Li</b>, Jesse Miller, and Susan Harrison. 2019. Climate drives loss of phylogenetic diversity in a grassland community. <u><i>Proceedings of the National Academy of Sciences</i></u>. 116:19989-19994. <a target="_blank" href="https://www.pnas.org/content/116/40/19989"><i class="fa fa-download"></i></a> 
+<li> <b>Daijiang Li</b>, Jesse Miller, and Susan Harrison. 2019. Climate drives loss of phylogenetic diversity in a grassland community. <u><i>Proceedings of the National Academy of Sciences</i></u>. 116:19989-19994. <a target="_blank" href="https://www.pnas.org/content/116/40/19989"><i class="fa fa-download"></i></a>
 </li>
 
 <li> <b>Daijiang Li</b>, Lauren Trotta, Hannah Marx, Julie Allen, Miao Sun, Douglas Soltis, Pamela Soltis, Robert Guralnick, and Benjamin Baiser. 2019. For common community phylogenetic analyses, go ahead and use synthesis phylogenies. <u><i>Ecology</i></u>. 100:e02788. <a target="_blank" href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.2788"><i class="fa fa-download"></i></a> <a target="_blank" href="https://www.biorxiv.org/content/10.1101/370353v3.full"><i class="ai ai-biorxiv-square"></i></a>
@@ -73,7 +77,7 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 <li> Benjamin Baiser and <b>Daijiang Li</b>. 2018. Comparing species area relationships for native and exotic species. <u><i>Biological Invasions</i></u>. 20(12), 3647–3658. <a target="_blank" href="https://link.springer.com/article/10.1007/s10530-018-1802-4"><i class="fa fa-download"></i></a>
 </li>
- 
+
 <li> <b>Daijiang Li</b>, Julie Lockwood, and Benjamin Baiser. 2018. Taxonomic and phylogenetic homogenization across US national parks - The role of non-native species. Book chapter in <i>From Biocultural Homogenization to Biocultural Conservation</i>. Edit by Rozzi et al.
 </li>
 
@@ -88,10 +92,10 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 <li> <b>Daijiang Li</b>, William Monahan, and Benjamin Baiser. 2018. Species richness and phylogenetic diversity of native and non-native species respond differently to area and environmental factors. <u><i>Diversity and Distributions</i></u>. 24: 853-864. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/ddi.12731/abstract"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/daijiang/rnps"><i class="fa fa-github"></i></a>
 </li>
- 
+
 <li> Emily Sessa, Sally Chambers, <b>Daijiang Li</b>, Lauren Trotta, Lorena Endara, Gordon Burleigh, and Benjamin Baiser. 2018. Community assembly of the ferns of Florida. <u><i>American Journal of Botany</i></u>. 105(3): 1–16. <a target="_blank" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1073"><i class="fa fa-download"></i></a>
 </li>
- 
+
 <li> Michael Perring, ..., <b>Daijiang Li</b>, ..., Kris Verheyen. 2018. Environmental change effects on plant community trajectories depend upon management legacies. <u><i>Global Change Biology</i></u>. 24:1722–1740. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/gcb.14030/abstract"><i class="fa fa-download"></i></a>
 </li>
 
@@ -100,7 +104,7 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 <li> <b>Daijiang Li</b> and Anthony Ives. 2017. The statistical need to include phylogeny in trait-based analyses of community composition. <u><i>Methods in Ecology and Evolution</i></u>. 8: 1192–1199. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12767/abstract"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/daijiang/Trait-Envi-Interactions"><i class="fa fa-github"></i></a>
  </li>
 
-<li> <b>Daijiang Li</b> and Donald Waller. 2017. Fire exclusion and climate change interact to affect long-term changes in the functional composition of plant communities. <u><i>Diversity and Distributions</i></u>. 23: 496-506. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/ddi.12542/abstract"><i class="fa fa-download"></i></a> 
+<li> <b>Daijiang Li</b> and Donald Waller. 2017. Fire exclusion and climate change interact to affect long-term changes in the functional composition of plant communities. <u><i>Diversity and Distributions</i></u>. 23: 496-506. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/ddi.12542/abstract"><i class="fa fa-download"></i></a>
 </li>
 
 <li> <b>Daijiang Li</b>, Anthony Ives, and Donald Waller. 2017. Can functional traits account for phylogenetic signal in community composition? <u><i>New Phytologist</i></u>. 214: 607-618. <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/nph.14397/abstract"><i class="fa fa-download"></i></a> <a target="_blank" href="https://github.com/daijiang/New_Phytologist_Appendix"><i class="fa fa-github"></i></a>
@@ -128,7 +132,7 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 ## Selected Awards and Grants
 
-- 2016, Ton Damman Award for Best Oral Presentation, Ecological Society of America Vegetation Section 
+- 2016, Ton Damman Award for Best Oral Presentation, Ecological Society of America Vegetation Section
 - 2015, Early Career Centennial Mentoring Program (10 early career ecologists total), Ecological Society of America
 - 2015, Student Conference Presentation Grant, $600. Graduate school, University of Wisconsin--Madison
 - 2015, The Raper Conference Travel Support , $400. Department of Botany, University of Wisconsin-Madison
@@ -181,7 +185,7 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 ## Professional Service and Outreach
 
 - Associate editor: *Ecology and Evolution* (2018 - present)
-- Manuscript reviewer for ([certified review record](https://publons.com/a/719613/)): 
+- Manuscript reviewer for ([certified review record](https://publons.com/a/719613/)):
   + *Ecography*
   + *Ecological Applications*
   + *Ecology Letters*
