@@ -5,6 +5,8 @@ disable_mathjax: true
 disable_highlight: true
 ---
 
+<b> I am starting my lab at LSU this August. Check out the [lab website](https://www.dlilab.com/) for details and opportunities! </b>
+
 <div id="widerimg">
     <img src="/images/yellow_trout_lily.jpg">
 </div>
