@@ -10,7 +10,7 @@ disable_comments: true
 
 ## Current Position
 
-I am currently a postdoc associate in the [Department of Wildlife Ecology and Conservation](http://wec.ufl.edu/) at the [University of Florida](http://www.ufl.edu/).
+I am currently an Assistant Professor at Louisiana State University (website: https://www.dlilab.com/). I used to be a postdoc associate in the [Department of Wildlife Ecology and Conservation](http://wec.ufl.edu/) at the [University of Florida](http://www.ufl.edu/).
 
 ## Education
 
@@ -34,6 +34,8 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 <ol reversed>
 
 <h3>2020</h3>
+
+<li><b>Daijiang Li</b>, Russell Dinnage, Lucas Nell, Matthew Helmus, and Anthony Ives. 2020. phyr: An R package for phylogenetic species‐distribution modelling in ecological communities. <u><i>Methods in Ecology and Evolution</i></u>. In press. <a target="_blank" href="https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13471"><i class="fa fa-download"></i></a> </li>
 
 <li><b>Daijiang Li</b>, Julian Olden, Julie Lockwood, Sydne Record, Michael McKinney, and Benjamin Baiser. 2020. Widespread Loss of Spatial Taxonomic, but not Phylogenetic, Diversity in the Anthropocene. <u><i>Proceedings B</i></u>. 287:20200777. <a target="_blank" href="https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.0777"><i class="fa fa-download"></i></a> </li>
 
