@@ -6,7 +6,7 @@ disable_highlight: true
 slug: "about"
 ---
 
-I am a postdoc researcher in the Department of Wildlife Ecology and Conservation at the University of Florida, working with [Ben Baiser](http://www.wec.ufl.edu/faculty/baiser) and [Rob Guralnick](https://sites.google.com/site/robgur/).
+I am an assistant professor at the Louisiana State University (website: https://www.dlilab.com/). I used to be a postdoc researcher in the Department of Wildlife Ecology and Conservation at the University of Florida, working with [Ben Baiser](http://www.wec.ufl.edu/faculty/baiser) and [Rob Guralnick](https://sites.google.com/site/robgur/).
 
 I am broadly interested in forest ecology, community ecology, global change ecology, and the causes and consequences of biodiversity. To answer ecological questions, I develop and apply quantitative tools to empirical datasets. I am passionate in open and reproducible science, scientific communication, and teaching quantitative skills.
 
