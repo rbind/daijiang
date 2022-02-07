@@ -1,4 +1,4 @@
-baseurl: "https://daijiang.name/"
+baseurl: "https://blog.dlilab.com/"
 languageCode: "en-us"
 title: "Daijiang Li"
 theme: "hugo-lithium-theme"
@@ -77,7 +77,7 @@ menu:
 
 params:
   description: "Personal website of Daijiang Li."
-  disqusURL: "http://daijiang.name"
+  disqusURL: "https://blog.dlilab.com"
   dateFormat: "2006/01/02"
   customCSS: ["css/custom.css"]
   customJS: ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js"]
