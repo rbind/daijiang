@@ -10,6 +10,8 @@ How can I run R on HiperGator within my terminal? The interactive RStudio server
 
 ## Solution
 
+Update: just use `module load R`. No longer need to next steps.
+
 It is probably documented somewhere by HiperGator. I just could not find it easily.
 
 Here are the steps I followed.
