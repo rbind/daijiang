@@ -11,6 +11,6 @@ Until we need to move it to a nearby room as it was initially put in another pro
 UITS team came and made sure that it is all good on the university network side. So it must by the problem from the workstation. Sure it was. And the following command solved it! Sort of weird as we did not change anything!
 
 ```bash
-sudo firewall-cmd --add-port 8787/tcp
+sudo firewall-cmd --permanent --add-port 8787/tcp
 ```
 
