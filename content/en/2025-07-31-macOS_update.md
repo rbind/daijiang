@@ -18,3 +18,11 @@ Then restart the Applications, and it now can interact with the Finder file syst
 
 And, btw, we have finally arrived at Madison, WI yesterday. I may can write a short blog post about the whole process later.
 
+## Calendar Sync
+
+It has bothered me for a while that the Calendar on my mac does not sync all the things on my work outlook calendar. I tried to make sure the outlook exchange account is logged in, still did not sync. Then, I learned to restart the `exchangesyncd` process: open Activity Monitor, find the `exchangesyncd` process, and force quit it. It will restart automatically, which resolved the sync issues!
+
+
+
+
+
